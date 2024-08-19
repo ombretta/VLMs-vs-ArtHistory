@@ -95,11 +95,9 @@ if __name__ == "__main__":
     args = parse_args()
     print(args)
 
-    res_dir, i = "results/" + args.dataset_name + "/OpenFlamingo/", 1
-    while os.path.exists(res_dir + str(i)):
-        i += 1
-    res_dir += str(i) + "/"
-    os.mkdir(res_dir)
+    res_dir = "results/" + "_".join([args.dataset_name, args.attribute, "OpenFlamingo"]) + "/"
+    if not os.path.exists(res_dir):
+        os.mkdir(res_dir)
 
     save_args_to_file(args, res_dir + "args.json")
 

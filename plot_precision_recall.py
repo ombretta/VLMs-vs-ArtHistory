@@ -3,6 +3,8 @@ import numpy as np
 from matplotlib import pyplot as plt
 from sklearn.metrics import recall_score, precision_score, f1_score
 
+from utils import parse_args
+
 style_labels = {
     "WikiArt": ['Abstract Expression.', 'Action Painting', 'Analytical Cubism', 'Art Nouveau Modern', 'Baroque',
                 'Color Field Painting', 'Contemporary Realism', 'Cubism', 'Early Renaissance', 'Expressionism',
@@ -123,8 +125,9 @@ def main(dir="results/", dataset="WikiArt", savedir="results/"):
 
 
 if __name__ == "__main__":
-    results_dir = "results/"
-    dataset = "ArTest"
-    savedir = "results/"
+
+    args = parse_args()
+    dataset = args.dataset_name
+    results_dir = savedir = args.results_dir
 
     main(results_dir, dataset, savedir)

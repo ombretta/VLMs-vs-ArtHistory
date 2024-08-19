@@ -17,26 +17,7 @@ The repository contains the code to reproduce the main results from the paper, a
   - `JenAesthetics/`: Please download and place JenAesthetics images and annotations in this folder. The JenAesthetics datasets can be found [here](https://github.com/Bin-ary-Li/JenAesthetics?tab=readme-ov-file).
   - `ArTest/`: ArTest is a test set of 147 painting images, well curated by art historians. The folder contains all the ArTest images and annotations collected in this project.
 
-- **`results/`**: This directory contains all the results collected in this project. The subdirectories contain the results for each tested dataseta and VLM, on the different prediction tasks. Each folder contains a `results.csv` file, with the zero-shot predictions for each painting. In addition, the test argument parameters are reported in the `args.json` file. In some cases, we include the confusion matrix of the predictions (`confusion_matrix.png`).    
-
-  ````
-  results
-  ├───ArTest
-  │    ├──CLIP
-  │    │   └──args.json
-  │    │   └──results.csv
-  │    │   └──confusion_matrix.png
-  │    ├──LLaVA 
-  │    │   └──...
-  │    ├──OpenFlamingo
-  │    │   └──...
-  │    └──GPT-4o
-  │    │   └──...
-  ├───WikiArt
-  │    └──...
-  └───JenAesthetics
-       └──...
-  ````
+- **`results/`**: This directory contains all the results collected in this project. The subdirectories contain the results for each tested datasets and VLM, on the different prediction tasks. The folder names specify the test: [dataset_name]\_[predicted_attribute]\_[VLM]. Each folder contains a `results.csv` file, with the zero-shot predictions for each painting. In addition, the test argument parameters are reported in the `args.json` file. In some cases, we include the confusion matrix of the predictions (`confusion_matrix.png`).    
 
 
 ## VLMs inference 
@@ -112,9 +93,15 @@ python zeroshot_eval.py --dataset_name WikiArt --results_dir results/WikiArt/LLa
 ```
 
 ### Precision and Recall
-To plot precision and recall for the prediction of each art style:
-```python plot_precision_recall.py```
+To plot precision and recall for the prediction of each art style on one specific dataset, run `plot_precision_recall.py`. For example:
+
+```
+python plot_precision_recall.py --dataset_name WikiArt --results_dir results/ 
+```
 
 ### Confusion Matrix
-To plot the confusion matrices for the predictions:
-```python plot_precision_recall.py```
+To plot the confusion matrices for the style predictions on one specific dataset, run `plot_precision_recall.py`. For example:
+
+```
+python plot_precision_recall.py  --dataset_name WikiArt --results_dir results/ 
+```

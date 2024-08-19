@@ -3,6 +3,7 @@ from matplotlib import pyplot as plt
 from sklearn.metrics import confusion_matrix
 
 from plots.plots import plot_confusion_matrix
+from utils import parse_args
 
 style_labels = {
     "WikiArt": ['Abstract Expression.', 'Action Painting', 'Analytical Cubism', 'Art Nouveau Modern', 'Baroque',
@@ -60,15 +61,15 @@ def main(dir="results/", dataset="WikiArt", savedir="results/"):
         conf_matrix = confusion_matrix(gt, preds, labels=styles)
         cmap = plt.cm.Blues
         title = model_names[i] + " (Acc. " + str(round(accuracy, 2)) + "%)"
-        figpath = savedir + "confusion_matrices/" + dataset + "_" + model + "_confusion.pdf"
+        figpath = savedir + "confusion_matrices/" + dataset + "_" + model + "_confusion.png"
         plot_confusion_matrix(conf_matrix, figpath, figsize=(35, 20),
                               labels=(style_labels[dataset], style_labels[dataset]),
                               title=title, accuracy=round(accuracy, 2), cmap=cmap, xticks_rotation=45)
 
 
 if __name__ == "__main__":
-    results_dir = "results/"
-    dataset = "JenAesthetics"
-    savedir = "results/"
+    args = parse_args()
+    dataset = args.dataset_name
+    results_dir = savedir = args.results_dir
 
     main(results_dir, dataset, savedir)

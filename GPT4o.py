@@ -90,11 +90,9 @@ if __name__ == "__main__":
     args = parse_args()
     print(args)
 
-    res_dir, i = os.path.join("results", args.dataset_name, "GPT-4o"), 1
-    while os.path.exists(os.path.join(res_dir, str(i))):
-        i += 1
-    res_dir = os.path.join(res_dir, str(i))
-    os.mkdir(res_dir)
+    res_dir = "results/" + "_".join([args.dataset_name, args.attribute, "GPT-4o"]) + "/"
+    if not os.path.exists(res_dir):
+        os.mkdir(res_dir)
 
     save_args_to_file(args, os.path.join(res_dir, "args.json"))
 
