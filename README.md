@@ -13,7 +13,8 @@ The emergence of large Vision-Language Models (VLMs) has recently established ne
 `conda env create -f clip_environment.yml`
 
 Example: Art style prediction on ArTest 
-`python CLIP.py  --dataset_name ArTest --image_folder_path datasets/ArTest/ 
+
+    `python CLIP.py  --dataset_name ArTest --image_folder_path datasets/ArTest/ 
     --annotation_file datasets/ArTest/ArTest.csv --features_dir datasets/ArTest/CLIP_features/ 
     --clip_prompt the\ art\ style\ of\ the\ painting\ is\  --image_model ViT-B/32 --attribute art_style --n -1`
 
