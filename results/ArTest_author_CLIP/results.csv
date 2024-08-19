@@ -1,0 +1,148 @@
+,images,gt,preds
+0,Outliers_images/Giotto_Kiss_Judas_1305.jpg,giotto,giotto
+1,Outliers_images/Pontormo_entombment_1928.jpg,jacopo pontormo,jacopo pontormo
+2,Outliers_images/Campin_Merode_1428.jpg,robert campin and workshop,robert campin and workshop
+3,Outliers_images/Velazques_meninas_1656.jpg,diego velazquez,diego velazquez
+4,Outliers_images/Gainsborough_Blue_boy_1770.jpg,thomas gainsborough,thomas gainsborough
+5,Outliers_images/Goya_Saturn_1819.jpg,francisco goya,francisco goya
+6,Outliers_images/David_Marat_1793.jpg,jacques-louis david,jacques-louis david
+7,Outliers_images/Daumier_Wagon_1862.jpg,honoré daumier,jean-françois millet
+8,Outliers_images/Mucha_Gismonda_1894.jpg,alfons mucha,alfons mucha
+9,Outliers_images/Picasso_Avignon_1907.jpg,pablo picasso,marcel duchamp
+10,Outliers_images/Picasso_Guernica_1937.jpg,pablo picasso,georges braque
+11,Outliers_images/Duchamp_glass_1923.jpg,marcel duchamp,salvador dali
+12,Outliers_images/Gris_guitar_1913.jpg,juan gris,juan gris
+13,Outliers_images/Metzinger_Tea_1911.jpg,jean metzinger,jean metzinger
+14,Outliers_images/Picasso_chair_1912.jpg,pablo picasso,georges braque
+15,Outliers_images/Dali_Memory_1931.jpg,salvador dali,salvador dali
+16,Outliers_images/Matisse_red_1911.jpg,henri matisse,henri matisse
+17,Outliers_images/Derain_Collioure_1905.jpg,andré derain,henri matisse
+18,Outliers_images/VanDongen_Woman_1906.jpg,kees van dongen,kees van dongen
+19,Outliers_images/Pollock_yellow-islands_1952.jpg,jackson pollock,jackson pollock
+20,Outliers_images/Kline_meryon_1961.jpg,franz kline,franz kline
+21,Outliers_images/Motherwell_elegy-to-the-spanish-republic-no-110_1971.jpg,robert motherwell,robert motherwell
+22,Outliers_images/Krasner_Gothic landscape_1961.jpg,lee krasner,lee krasner
+23,Outliers_images/Stella_Marrakech_1964.jpg,frank stella,frank stella
+24,Outliers_images/Rothko_No7_1963.jpg,mark rothko,mark rothko
+25,Outliers_images/Noland_east-west_1963.jpg,kenneth noland,kenneth noland
+26,Outliers_images/Malevich_black_square_1915.jpg,kazimir malevich,kazimir malevich
+27,Outliers_images/Baer_stations_1967.jpg,jo baer,ellsworth kelly
+28,Outliers_images/Hiroshige_the-plum-garden_1857.jpg,utagawa hiroshige,utagawa hiroshige
+29,Outliers_images/Sharaku_the-actor-Otani_1794.jpg,toshusai sharaku,kitagawa utamaro
+30,Outliers_images/Utamaro_The-courtesan-Takao_1793.jpg,kitagawa utamaro,kitagawa utamaro
+31,Outliers_images/Hokusai_red-fuji_1831.jpg,katsushika hokusai,hokusai
+32,Outliers_images/Duchamp_fountain_1917.jpg,marcel duchamp,marcel duchamp
+33,Outliers_images/Johns_Flag_1955.jpg,jasper johns,jasper johns
+34,Influential_artworks/Early_Renaissance/FilippoLippi_MadonnaandChild_1455.jpg,filippo lippi,filippo lippi
+35,Influential_artworks/Early_Renaissance/Masaccio_Tributemoney_1427.jpg,masaccio,masaccio
+36,Influential_artworks/Early_Renaissance/Masaccio_holytrinity_1427.jpg,masaccio,masaccio
+37,Influential_artworks/Early_Renaissance/FraAngelico_annunciation_1440.jpg,fra angelico,fra angelico
+38,Influential_artworks/Mannerism_Late_Renaissance/ElGreco_BurialOrgaz_1586.jpg,el greco,el greco
+39,Influential_artworks/Mannerism_Late_Renaissance/Parmigianino_Madonna_1534.jpg,parmigianino,parmigianino
+40,Influential_artworks/Mannerism_Late_Renaissance/Michelangelo_LastJudgment_1536.jpg,michelangelo,raphael
+41,Influential_artworks/Mannerism_Late_Renaissance/Bronzino_Allegory_1545.jpg,bronzino,bronzino
+42,Influential_artworks/Expressionism/Schiele_selfportrait_1912.jpg,egon schiele,egon schiele
+43,Influential_artworks/Expressionism/Marc_horses_1911.jpg,franz marc,franz marc
+44,Influential_artworks/Expressionism/Munch_scream_1893.jpg,edvard munch,edvard munch
+45,Influential_artworks/Expressionism/Kandinsky_bluerider_1903.jpg,wassily kandinsky,paul gauguin
+46,Influential_artworks/Expressionism/Kirchner_berlin_1913.jpg,ernst ludwig kirchner,ernst ludwig kirchner
+47,Influential_artworks/Art_nouveau/Khnopff_sphinx_1896.jpg,fernand khnopff,fernand khnopff
+48,Influential_artworks/Art_nouveau/Klimt_Kiss_1907.jpg,gustav klimt,gustav klimt
+49,Influential_artworks/Art_nouveau/ToulouseLautrec_moulinrouge_1895.jpg,toulouse lautrec,toulouse lautrec
+50,Influential_artworks/Art_nouveau/Beardsley_peacock_1893.jpg,aubrey beardsley,aubrey beardsley
+51,Influential_artworks/Fauvism/Matisse_woman_1905.jpg,henri matisse,henri matisse
+52,Influential_artworks/Fauvism/Derain_bridge_1906.jpg,andré derain,andré derain
+53,Influential_artworks/Northern_Renaissance/AlbrechtDurer_Rhinoceros_1515.jpg,albrecht durer,albrecht durer
+54,Influential_artworks/Northern_Renaissance/Bosch_Garden.jpg,hieronymus bosch,hieronymus bosch
+55,Influential_artworks/Northern_Renaissance/JanVanEyck_Arnolfini_1434.jpg,jan van eyck,jan van eyck
+56,Influential_artworks/Northern_Renaissance/Holbein_Ambassadors_1533.jpg,hans holbein the younger,hans holbein the younger
+57,Influential_artworks/Rococo/Tiepolo_Allegory_1752.jpg,giovanni battista tiepolo,giovanni battista tiepolo
+58,Influential_artworks/Rococo/Watteau_Embarkation_1717.jpg,jean-antoine watteau,jean-antoine watteau
+59,Influential_artworks/Rococo/Boucher_Odalisque_1745.jpg,francois boucher,jacques-louis david
+60,Influential_artworks/Rococo/Fragonard_swing_1766.jpg,jean-honoré fragonard,jean-honoré fragonard
+61,Influential_artworks/Ukiyo-e/Hokusai_wave_1830.jpg,hokusai,hokusai
+62,Influential_artworks/Pop_art/Paolozzi_richman_1947.jpg,eduardo paolozzi,eduardo paolozzi
+63,Influential_artworks/Pop_art/Warhol_campbell_1962.jpg,andy warhol,andy warhol
+64,Influential_artworks/Pop_art/Hamilton_justwhat_1956.jpg,richard hamilton,richard hamilton
+65,Influential_artworks/Pop_art/Lichtenstein_girl_1964.jpg,roy lichtenstein,roy lichtenstein
+66,Influential_artworks/High_Renaissance/Michelangelo_sistine_1508.jpg,michelangelo,raphael
+67,Influential_artworks/High_Renaissance/LeonardoDaVinci_LastSupper_1495.jpg,leonardo da vinci,raphael
+68,Influential_artworks/High_Renaissance/Giorgione_Tempest_1506.jpg,giorgione,giorgione
+69,Influential_artworks/High_Renaissance/LeonardoDaVinci_MonaLisa_1503.jpg,leonardo da vinci,leonardo da vinci
+70,Influential_artworks/High_Renaissance/Raphael_SchoolAthens_1509.jpg,raphael,raphael
+71,Influential_artworks/Minimalism/Hesse_untitled_1967.jpg,eva hesse,kazimir malevich
+72,Influential_artworks/Minimalism/Ryman_bentline.jpg,robert ryman,kazimir malevich
+73,Influential_artworks/Minimalism/Kelly_horizontal_1951.jpg,ellsworth kelly,ellsworth kelly
+74,Influential_artworks/Minimalism/Smith_die_1962.jpg,tony smith,mark rothko
+75,Influential_artworks/Color_field_painting/Louis_alpha_1961.jpg,morris louis,barnett newman
+76,Influential_artworks/Color_field_painting/Newman_vir_1950.jpg,barnett newman,barnett newman
+77,Influential_artworks/Realism/Millet_gleaners_1857.jpg,jean-françois millet,jean-françois millet
+78,Influential_artworks/Realism/Manet_Olympia_1863.jpg,edouard manet,edouard manet
+79,Influential_artworks/Realism/Eakins_clinic_1875.jpg,thomas eakins,thomas eakins
+80,Influential_artworks/Realism/Courbet_stonebreakers_1849.jpg,gustave courbet,edouard manet
+81,Influential_artworks/Romanticism/Gericault_Medusa_1818.jpg,théodore géricault ,théodore géricault 
+82,Influential_artworks/Romanticism/Turner_Slaveship_1840.jpg,joseph mallord william turner,joseph mallord william turner
+83,Influential_artworks/Romanticism/Delacroix_Liberty_1830.jpg,eugène delacroix,eugène delacroix
+84,Influential_artworks/Romanticism/Friedrich_Wanderer_1818.jpg,caspar david friedrich,caspar david friedrich
+85,Influential_artworks/Cubism/Braque_violincandlestick_1910.jpg,georges braque,georges braque
+86,Influential_artworks/Cubism/Braque_estaque_1908.jpg,georges braque,georges braque
+87,Influential_artworks/Impressionism/Degas_Ballet_1874.jpg,edgar degas,edgar degas
+88,Influential_artworks/Impressionism/Monet_sunrise_1872.jpg,claude monet,claude monet
+89,Influential_artworks/Impressionism/Pissarro_boulevardwinter_1897.jpg,camille pissarro,camille pissarro
+90,Influential_artworks/Impressionism/Caillebotte_Paris_1877.jpg,gustave caillebotte,gustave caillebotte
+91,Influential_artworks/Impressionism/Renoir_Dancemoulin_1876.jpg,pierre-auguste renoir,pierre-auguste renoir
+92,Influential_artworks/Baroque/Rubens_ElevationCross_1610.jpg,peter paul rubens,peter paul rubens
+93,Influential_artworks/Baroque/Caravaggio_StMatthew_1599.jpg,caravaggio,caravaggio
+94,Influential_artworks/Baroque/Rembrandt_Nightwatch_1642.jpg,rembrandt,rembrandt
+95,Influential_artworks/Baroque/Gentileschi_Judith_1612.jpg,artemisia gentileschi,artemisia gentileschi
+96,Influential_artworks/Post_Impressionism/Seurat_Sunday_1884.jpg,georges seurat,georges seurat
+97,Influential_artworks/Post_Impressionism/Cezanne_mont_1902.jpg,paul cezanne,paul cezanne
+98,Influential_artworks/Post_Impressionism/vanGogh_Starrynight_1889.jpg,vincent van gogh,vincent van gogh
+99,Influential_artworks/Post_Impressionism/ToulouseLautrec_Clownesse_1895.jpg,toulouse lautrec,toulouse lautrec
+100,Influential_artworks/Post_Impressionism/Gauguin_Where_1897.jpg,paul gauguin,paul gauguin
+101,Influential_artworks/Abstract_Expressionism/deKooning_woman_1952.jpg,willem de kooning,willem de kooning
+102,Influential_artworks/Naive_art_primitivism/Moses_turkey_1940.jpg,grandma moses,grandma moses
+103,Influential_artworks/Naive_art_primitivism/Pirosmani_gatekeeper_1905.jpg,niko pirosmani,kees van dongen
+104,Influential_artworks/Naive_art_primitivism/Rousseau_gypsy_1897.jpg,henri rousseau,henri rousseau
+105,Influential_artworks/Naive_art_primitivism/Rousseau_dream_1910.jpg,henri rousseau,henri rousseau
+106,Influential_artworks/Naive_art_primitivism/Rousseau_repast_1907.jpg,henri rousseau,henri rousseau
+107,Picasso_collection/Picasso_Bateleurs_1905.jpg,pablo picasso,pablo picasso
+108,Picasso_collection/Picasso_vase_1903.jpg,pablo picasso,edgar degas
+109,Picasso_collection/Picasso_Woman_Raven_1904.jpg,pablo picasso,ernst ludwig kirchner
+110,Picasso_collection/Picasso_Vie_1903.jpg,pablo picasso,pablo picasso
+111,Picasso_collection/Picasso_Brooding_Woman_1904.jpg,pablo picasso,edvard munch
+112,Picasso_collection/Picasso_avignon_1907.jpg,pablo picasso,marcel duchamp
+113,Picasso_collection/Picasso_maisonette_1908.jpg,pablo picasso,georges braque
+114,Picasso_collection/Picasso_gueridon_1920.jpg,pablo picasso,juan gris
+115,Picasso_collection/Picasso_blanquita_1917.jpg,pablo picasso,lee krasner
+116,Picasso_collection/Picasso_armchair_1917.jpg,pablo picasso,lee krasner
+117,Picasso_collection/Picasso_Man_hat_1912.jpg,pablo picasso,juan gris
+118,Picasso_collection/Picasso_verre_1914.jpg,pablo picasso,niko pirosmani
+119,Picasso_collection/Picasso_Cheminee_1916.jpg,pablo picasso,georges braque
+120,Picasso_collection/Picasso_Harlequin_1915.jpg,pablo picasso,kazimir malevich
+121,Picasso_collection/Picasso_Guitare_journal_1913.jpg,pablo picasso,juan gris
+122,Picasso_collection/Picasso_Bathers_Forest_1908.jpg,pablo picasso,andré derain
+123,Picasso_collection/Picasso_nature_morte_1909.jpg,pablo picasso,georges braque
+124,Picasso_collection/Picasso_Kahnweiler_1910.jpg,pablo picasso,georges braque
+125,Picasso_collection/Picasso_grenade_1911.jpg,pablo picasso,georges braque
+126,Picasso_collection/Picasso_Jolie_1912.jpg,pablo picasso,georges braque
+127,Picasso_collection/Picasso_Sculptor_and_Statue_1933.jpg,pablo picasso,honoré daumier
+128,Picasso_collection/Picasso_Bather_1928.jpg,pablo picasso,pablo picasso
+129,Picasso_collection/Picasso_Crucifixion_1930.jpg,pablo picasso,ernst ludwig kirchner
+130,Picasso_collection/Picasso_Corrida_1933.jpg,pablo picasso,franz marc
+131,Picasso_collection/Picasso_Baiser_1931.jpg,pablo picasso,pablo picasso
+132,Picasso_collection/Picasso_Jeanne_1901.jpg,pablo picasso,ernst ludwig kirchner
+133,Picasso_collection/Picasso_Canals_1905.jpg,pablo picasso,edouard manet
+134,Picasso_collection/Picasso_Paralelo_1900.jpg,pablo picasso,toulouse lautrec
+135,Picasso_collection/Picasso_Homme_1903.jpg,pablo picasso,théodore géricault 
+136,Picasso_collection/Picasso_Woman_1901.jpg,pablo picasso,paul cezanne
+137,Picasso_collection/Picasso_Portrait_Olga_1918.jpg,pablo picasso,robert campin and workshop
+138,Picasso_collection/Picasso_Women_Spring_1921.jpg,pablo picasso,raphael
+139,Picasso_collection/Picasso_Nessus_Deianira_1920.jpg,pablo picasso,jacopo pontormo
+140,Picasso_collection/Picasso_Pan_Pipes_1923.jpg,pablo picasso,pablo picasso
+141,Picasso_collection/Picasso_Lovers_1923.jpg,pablo picasso,henri matisse
+142,Picasso_collection/Picasso_Weeping_Woman_1937.jpg,pablo picasso,pablo picasso
+143,Picasso_collection/Picasso_Self_1901.jpg,pablo picasso,andré derain
+144,Picasso_collection/Picasso_Jacqueline_1954.jpg,pablo picasso,kees van dongen
+145,Picasso_collection/Picasso_absinthe_1903.jpg,pablo picasso,el greco
+146,Picasso_collection/Picasso_untitled_1937.jpg,pablo picasso,georges braque

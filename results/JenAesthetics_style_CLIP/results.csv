@@ -1,0 +1,1577 @@
+,images,gt,preds
+0,Aalto1.jpg,expressionism,post impressionism
+1,Aalto2.jpg,expressionism,post impressionism
+2,Aertsen1.jpg,renaissance,mannerism
+3,Aertsen2.jpg,renaissance,baroque
+4,Aertsen3.jpg,renaissance,baroque
+5,Aivazovsky 2.jpg,romanticism,romanticism
+6,Aivazovsky1.jpg,romanticism,romanticism
+7,Albani1.jpg,baroque,mannerism
+8,Alcazar1.jpg,rococo,romanticism
+9,Alcazar2.jpg,rococo,romanticism
+10,Alcazar3.jpg,rococo,rococo
+11,Allori1.jpg,mannerism,baroque
+12,Altdorfer 1.jpg,renaissance,classicism
+13,Altdorfer1.jpg,romanticism,romanticism
+14,AmanJean1.jpg,symbolism,post impressionism
+15,Amigoni1.jpg,rococo,rococo
+16,Arcimboldo1.jpg,renaissance,mannerism
+17,Arcimboldo2.jpg,renaissance,baroque
+18,Arcimboldo3.jpg,renaissance,baroque
+19,Arellano1.jpg,baroque,rococo
+20,Arentsz1.jpg,baroque,romanticism
+21,Asselijn1.jpg,baroque,romanticism
+22,Avercamp1.jpg,baroque,romanticism
+23,Avercamp2.jpg,baroque,romanticism
+24,Backer1.jpg,baroque,baroque
+25,Baglione1.jpg,baroque,classicism
+26,Barocci1.jpg,baroque,baroque
+27,Barry1.jpg,romanticism,romanticism
+28,Bartolommeo1.jpg,renaissance,classicism
+29,Bartolommeo2.jpg,renaissance,mannerism
+30,Bartolommeo3.jpg,renaissance,mannerism
+31,Battista1.jpg,renaissance,mannerism
+32,Battista2.jpg,renaissance,mannerism
+33,Battista3.jpg,renaissance,mannerism
+34,Battista4.jpg,renaissance,realism
+35,Battista5.jpg,renaissance,romanticism
+36,Battista6.jpg,renaissance,romanticism
+37,Bazille1.jpg,impressionism,romanticism
+38,Bazille2.jpg,impressionism,romanticism
+39,Beck1.jpg,baroque,baroque
+40,Becker1.jpg,expressionism,post impressionism
+41,Becker2.jpg,expressionism,post impressionism
+42,Beert1.jpg,baroque,rococo
+43,Bellucci1.jpg,rococo,classicism
+44,BenjaminWest1.jpg,classicism,rococo
+45,BenjaminWest10.jpg,classicism,rococo
+46,BenjaminWest11.jpg,classicism,romanticism
+47,BenjaminWest12.jpg,classicism,romanticism
+48,BenjaminWest13.jpg,classicism,classicism
+49,BenjaminWest14.jpg,classicism,rococo
+50,BenjaminWest15.jpg,classicism,rococo
+51,BenjaminWest16.jpg,classicism,classicism
+52,BenjaminWest17.jpg,classicism,rococo
+53,BenjaminWest18.jpg,classicism,classicism
+54,BenjaminWest2.jpg,classicism,romanticism
+55,BenjaminWest3.jpg,classicism,classicism
+56,BenjaminWest4.jpg,classicism,classicism
+57,BenjaminWest5.jpg,classicism,realism
+58,BenjaminWest6.jpg,classicism,classicism
+59,BenjaminWest7.jpg,classicism,classicism
+60,BenjaminWest8.jpg,classicism,classicism
+61,BenjaminWest9.jpg,classicism,rococo
+62,Benson1.jpg,impressionism,romanticism
+63,Benson2.jpg,impressionism,impressionism
+64,Bernard1.jpg,post impressionism,post impressionism
+65,Bernard2.jpg,post impressionism,post impressionism
+66,Bernard3.jpg,post impressionism,post impressionism
+67,Bernard4.jpg,post impressionism,post impressionism
+68,Blanchard1.jpg,baroque,classicism
+69,Bloemaert1.jpg,baroque,baroque
+70,Bloemaert2.jpg,baroque,romanticism
+71,Bocklin1.jpg,symbolism,romanticism
+72,Bocklin2.jpg,symbolism,romanticism
+73,Bocklin3.jpg,symbolism,romanticism
+74,Bocklin4.jpg,symbolism,romanticism
+75,Boel1.jpg,baroque,romanticism
+76,Boel2.jpg,baroque,realism
+77,Bol1.jpg,baroque,rococo
+78,Bol2.jpg,baroque,baroque
+79,Bonheur1.jpg,realism,romanticism
+80,Borch1.jpg,baroque,romanticism
+81,Borch2.jpg,baroque,mannerism
+82,Borch3.jpg,baroque,romanticism
+83,Borch4.jpg,baroque,romanticism
+84,Borch5.jpg,baroque,romanticism
+85,Borch6.jpg,baroque,baroque
+86,Borch7.jpg,baroque,romanticism
+87,Borch8.jpg,baroque,romanticism
+88,Bordone1.jpg,renaissance,mannerism
+89,Bordone2.jpg,renaissance,classicism
+90,Boselli1.jpg,baroque,realism
+91,Boucher1.jpg,rococo,rococo
+92,Boucher2.jpg,rococo,rococo
+93,Boucher3.jpg,rococo,rococo
+94,Boucher4.jpg,rococo,rococo
+95,Boudin1.jpg,impressionism,romanticism
+96,Boudin2.jpg,impressionism,romanticism
+97,Boudin3.jpg,impressionism,impressionism
+98,Boudin4.jpg,impressionism,impressionism
+99,Boudin5.jpg,impressionism,impressionism
+100,Bouguereau1.jpg,realism,romanticism
+101,Bouguereau2.jpg,realism,romanticism
+102,Bouguereau3.jpg,realism,romanticism
+103,Bramley1.jpg,post impressionism,impressionism
+104,Bray1.jpg,baroque,mannerism
+105,Breenbergh1.jpg,baroque,classicism
+106,Breenbergh2.jpg,baroque,classicism
+107,Breton1.jpg,realism,impressionism
+108,Bronzino1.jpg,renaissance,classicism
+109,Bronzino2.jpg,renaissance,mannerism
+110,Bronzino3.jpg,renaissance,classicism
+111,Bronzino4.jpg,renaissance,mannerism
+112,Bronzino5.jpg,renaissance,romanticism
+113,Bronzino6.jpg,renaissance,classicism
+114,Bronzino7.jpg,renaissance,renaissance
+115,Bronzino8.jpg,renaissance,mannerism
+116,Brouwer1.jpg,baroque,romanticism
+117,Bruegel1.jpg,renaissance,classicism
+118,Bruegel2.jpg,renaissance,baroque
+119,Bruegel3.jpg,renaissance,post impressionism
+120,Bruegel4.jpg,renaissance,renaissance
+121,Bruegel5.jpg,renaissance,baroque
+122,Bruegel6.jpg,renaissance,renaissance
+123,Brueghel1.jpg,baroque,rococo
+124,BrueghelYounger1.jpg,baroque,baroque
+125,BrueghelYounger2.jpg,baroque,baroque
+126,Brugghen1.jpg,baroque,mannerism
+127,Brugghen2.jpg,baroque,baroque
+128,Brugghen3.jpg,baroque,classicism
+129,Brull1.jpg,symbolism,impressionism
+130,Bryullov1.jpg,romanticism,romanticism
+131,Bryullov2.jpg,romanticism,romanticism
+132,Bukovac1.jpg,post impressionism,impressionism
+133,Cabanel1.jpg,romanticism,romanticism
+134,Cagnacci1.jpg,baroque,classicism
+135,Caillebotte1.jpg,impressionism,impressionism
+136,Caillebotte2.jpg,impressionism,impressionism
+137,Caillebotte3.jpg,impressionism,impressionism
+138,Caillebotte4.jpg,impressionism,post impressionism
+139,Caillebotte5.jpg,impressionism,post impressionism
+140,Caillebotte6.jpg,impressionism,post impressionism
+141,Caillebotte7.jpg,impressionism,impressionism
+142,Caillebotte8.jpg,impressionism,post impressionism
+143,CamilleCorot1.jpg,realism,romanticism
+144,CamilleCorot10.jpg,realism,romanticism
+145,CamilleCorot11.jpg,realism,romanticism
+146,CamilleCorot12.jpg,realism,romanticism
+147,CamilleCorot13.jpg,realism,romanticism
+148,CamilleCorot2.jpg,realism,romanticism
+149,CamilleCorot3.jpg,realism,romanticism
+150,CamilleCorot4.jpg,realism,romanticism
+151,CamilleCorot5.jpg,realism,romanticism
+152,CamilleCorot6.jpg,realism,romanticism
+153,CamilleCorot7.jpg,realism,classicism
+154,CamilleCorot8.jpg,realism,romanticism
+155,CamilleCorot9.jpg,realism,romanticism
+156,Camprobin1.jpg,baroque,baroque
+157,Camprobin2.jpg,baroque,baroque
+158,Canaletto1.jpg,rococo,romanticism
+159,Canaletto10.jpg,rococo,classicism
+160,Canaletto11.jpg,rococo,romanticism
+161,Canaletto12.jpg,rococo,classicism
+162,Canaletto13.jpg,rococo,rococo
+163,Canaletto14.jpg,rococo,romanticism
+164,Canaletto15.jpg,rococo,classicism
+165,Canaletto2.jpg,rococo,classicism
+166,Canaletto3.jpg,rococo,classicism
+167,Canaletto4.jpg,rococo,classicism
+168,Canaletto5.jpg,rococo,classicism
+169,Canaletto6.jpg,rococo,classicism
+170,Canaletto7.jpg,rococo,classicism
+171,Canaletto8.jpg,rococo,romanticism
+172,Canaletto9.jpg,rococo,classicism
+173,Caracciolo1.jpg,baroque,mannerism
+174,Caravaggio1.jpg,baroque,baroque
+175,Caravaggio2.jpg,baroque,classicism
+176,Caravaggio3.jpg,baroque,romanticism
+177,Carracci1.jpg,baroque,mannerism
+178,Carracci2.jpg,baroque,classicism
+179,Carriere1.jpg,symbolism,baroque
+180,Cassatt1.jpg,impressionism,post impressionism
+181,Cassatt10.jpg,impressionism,impressionism
+182,Cassatt2.jpg,impressionism,post impressionism
+183,Cassatt3.jpg,impressionism,impressionism
+184,Cassatt4.jpg,impressionism,impressionism
+185,Cassatt5.jpg,impressionism,post impressionism
+186,Cassatt6.jpg,impressionism,impressionism
+187,Cassatt7.jpg,impressionism,post impressionism
+188,Cassatt8.jpg,impressionism,post impressionism
+189,Cassatt9.jpg,impressionism,impressionism
+190,Castagneto1.jpg,impressionism,impressionism
+191,Castiglione1.jpg,baroque,classicism
+192,Catena1.jpg,renaissance,renaissance
+193,Catena2.jpg,renaissance,renaissance
+194,Catena3.jpg,renaissance,renaissance
+195,Cavallino1.jpg,baroque,classicism
+196,Cavallino2.jpg,baroque,classicism
+197,Cawen1.jpg,expressionism,post impressionism
+198,Cawen2.jpg,expressionism,post impressionism
+199,Cerezo1.jpg,baroque,mannerism
+200,Cesari1.jpg,mannerism,classicism
+201,Cesari2.jpg,mannerism,classicism
+202,Cezanne1.jpg,post impressionism,post impressionism
+203,Cezanne10.jpg,post impressionism,impressionism
+204,Cezanne11.jpg,post impressionism,post impressionism
+205,Cezanne12.jpg,post impressionism,post impressionism
+206,Cezanne13.jpg,post impressionism,post impressionism
+207,Cezanne14.jpg,post impressionism,post impressionism
+208,Cezanne15.jpg,post impressionism,post impressionism
+209,Cezanne16.jpg,post impressionism,post impressionism
+210,Cezanne17.jpg,post impressionism,post impressionism
+211,Cezanne18.jpg,post impressionism,impressionism
+212,Cezanne19.jpg,post impressionism,post impressionism
+213,Cezanne2.jpg,post impressionism,post impressionism
+214,Cezanne20.jpg,post impressionism,post impressionism
+215,Cezanne21.jpg,post impressionism,post impressionism
+216,Cezanne22.jpg,post impressionism,post impressionism
+217,Cezanne23.jpg,post impressionism,post impressionism
+218,Cezanne24.jpg,post impressionism,post impressionism
+219,Cezanne25.jpg,post impressionism,post impressionism
+220,Cezanne26.jpg,post impressionism,post impressionism
+221,Cezanne27.jpg,post impressionism,post impressionism
+222,Cezanne28.jpg,post impressionism,impressionism
+223,Cezanne29.jpg,post impressionism,post impressionism
+224,Cezanne3.jpg,post impressionism,impressionism
+225,Cezanne30.jpg,post impressionism,post impressionism
+226,Cezanne31.jpg,post impressionism,post impressionism
+227,Cezanne32.jpg,post impressionism,post impressionism
+228,Cezanne33.jpg,post impressionism,post impressionism
+229,Cezanne34.jpg,post impressionism,post impressionism
+230,Cezanne35.jpg,post impressionism,impressionism
+231,Cezanne36.jpg,post impressionism,post impressionism
+232,Cezanne37.jpg,post impressionism,post impressionism
+233,Cezanne38.jpg,post impressionism,post impressionism
+234,Cezanne39.jpg,post impressionism,post impressionism
+235,Cezanne4.jpg,post impressionism,post impressionism
+236,Cezanne40.jpg,post impressionism,post impressionism
+237,Cezanne41.jpg,post impressionism,post impressionism
+238,Cezanne42.jpg,post impressionism,impressionism
+239,Cezanne43.jpg,post impressionism,post impressionism
+240,Cezanne5.jpg,post impressionism,post impressionism
+241,Cezanne6.jpg,post impressionism,post impressionism
+242,Cezanne7.jpg,post impressionism,impressionism
+243,Cezanne8.jpg,post impressionism,post impressionism
+244,Cezanne9.jpg,post impressionism,post impressionism
+245,Chardin1.jpg,rococo,romanticism
+246,Chardin2.jpg,rococo,classicism
+247,Chardin3.jpg,rococo,romanticism
+248,Chardin4.jpg,rococo,romanticism
+249,Chardin5.jpg,rococo,mannerism
+250,Chardin6.jpg,rococo,classicism
+251,Chardin7.jpg,rococo,romanticism
+252,Chardin8.jpg,rococo,romanticism
+253,Chardin9.jpg,rococo,romanticism
+254,Charleston1.jpg,impressionism,rococo
+255,Chasseriau1.jpg,romanticism,classicism
+256,ChristianDahl1.jpg,romanticism,romanticism
+257,ChristianDahl2.jpg,romanticism,romanticism
+258,ChristianDahl3.jpg,romanticism,romanticism
+259,ChristianDahl4.jpg,romanticism,romanticism
+260,Claesz1.jpg,baroque,rococo
+261,Claesz2.jpg,baroque,romanticism
+262,Clouet1.jpg,renaissance,mannerism
+263,Coello1.jpg,baroque,baroque
+264,Coello2.jpg,baroque,baroque
+265,Constable1.jpg,romanticism,romanticism
+266,Constable10.jpg,romanticism,romanticism
+267,Constable11.jpg,romanticism,romanticism
+268,Constable12.jpg,romanticism,romanticism
+269,Constable13.jpg,romanticism,rococo
+270,Constable14.jpg,romanticism,romanticism
+271,Constable15.jpg,romanticism,impressionism
+272,Constable16.jpg,romanticism,romanticism
+273,Constable17.jpg,romanticism,romanticism
+274,Constable18.jpg,romanticism,romanticism
+275,Constable19.jpg,romanticism,impressionism
+276,Constable2.jpg,romanticism,romanticism
+277,Constable20.jpg,romanticism,romanticism
+278,Constable21.jpg,romanticism,romanticism
+279,Constable22.jpg,romanticism,romanticism
+280,Constable23.jpg,romanticism,romanticism
+281,Constable24.jpg,romanticism,romanticism
+282,Constable25.jpg,romanticism,romanticism
+283,Constable26.jpg,romanticism,romanticism
+284,Constable27.jpg,romanticism,romanticism
+285,Constable28.jpg,romanticism,romanticism
+286,Constable29.jpg,romanticism,romanticism
+287,Constable3.jpg,romanticism,romanticism
+288,Constable30.jpg,romanticism,romanticism
+289,Constable31.jpg,romanticism,romanticism
+290,Constable32.jpg,romanticism,romanticism
+291,Constable33.jpg,romanticism,romanticism
+292,Constable34.jpg,romanticism,romanticism
+293,Constable35.jpg,romanticism,romanticism
+294,Constable36.jpg,romanticism,romanticism
+295,Constable37.jpg,romanticism,romanticism
+296,Constable38.jpg,romanticism,romanticism
+297,Constable39.jpg,romanticism,romanticism
+298,Constable4.jpg,romanticism,romanticism
+299,Constable40.jpg,romanticism,romanticism
+300,Constable41.jpg,romanticism,romanticism
+301,Constable42.jpg,romanticism,rococo
+302,Constable43.jpg,romanticism,rococo
+303,Constable44.jpg,romanticism,romanticism
+304,Constable45.jpg,romanticism,romanticism
+305,Constable46.jpg,romanticism,romanticism
+306,Constable47.jpg,romanticism,romanticism
+307,Constable48.jpg,romanticism,romanticism
+308,Constable49.jpg,romanticism,romanticism
+309,Constable5.jpg,romanticism,romanticism
+310,Constable50.jpg,romanticism,romanticism
+311,Constable51.jpg,romanticism,romanticism
+312,Constable52.jpg,romanticism,romanticism
+313,Constable53.jpg,romanticism,romanticism
+314,Constable54.jpg,romanticism,romanticism
+315,Constable55.jpg,romanticism,romanticism
+316,Constable56.jpg,romanticism,impressionism
+317,Constable57.jpg,romanticism,romanticism
+318,Constable6.jpg,romanticism,romanticism
+319,Constable7.jpg,romanticism,romanticism
+320,Constable8.jpg,romanticism,romanticism
+321,Constable9.jpg,romanticism,romanticism
+322,Copley1.jpg,classicism,rococo
+323,Copley2.jpg,classicism,romanticism
+324,Copley3.jpg,classicism,realism
+325,Copley4.jpg,classicism,realism
+326,Copley5.jpg,classicism,rococo
+327,Copley6.jpg,classicism,rococo
+328,Copley7.jpg,classicism,rococo
+329,Copley8.jpg,classicism,mannerism
+330,Copley9.jpg,classicism,romanticism
+331,Coques1.jpg,baroque,baroque
+332,Coques2.jpg,baroque,rococo
+333,Corinth1.jpg,impressionism,expressionism
+334,Corinth2.jpg,impressionism,expressionism
+335,Cortona1.jpg,baroque,baroque
+336,Cortona2.jpg,baroque,classicism
+337,Corvi1.jpg,rococo,baroque
+338,Cossiers1.jpg,baroque,mannerism
+339,Cottet1.jpg,post impressionism,post impressionism
+340,Courbet1.jpg,realism,romanticism
+341,Courbet10.jpg,realism,impressionism
+342,Courbet11.jpg,realism,romanticism
+343,Courbet12.jpg,realism,romanticism
+344,Courbet13.jpg,realism,romanticism
+345,Courbet14.jpg,realism,realism
+346,Courbet15.jpg,realism,romanticism
+347,Courbet16.jpg,realism,romanticism
+348,Courbet17.jpg,realism,impressionism
+349,Courbet2.jpg,realism,romanticism
+350,Courbet3.jpg,realism,romanticism
+351,Courbet4.jpg,realism,romanticism
+352,Courbet5.jpg,realism,romanticism
+353,Courbet6.jpg,realism,romanticism
+354,Courbet7.jpg,realism,romanticism
+355,Courbet8.jpg,realism,romanticism
+356,Courbet9.jpg,realism,romanticism
+357,Craen1.jpg,baroque,rococo
+358,Cross1.jpg,post impressionism,post impressionism
+359,Cross2.jpg,post impressionism,post impressionism
+360,Csontvary1.jpg,symbolism,post impressionism
+361,Cuyp1.jpg,baroque,romanticism
+362,Cuyp2.jpg,baroque,romanticism
+363,Cuyp3.jpg,baroque,romanticism
+364,Cuyp4.jpg,baroque,romanticism
+365,Cuyp5.jpg,baroque,romanticism
+366,Cuyp6.jpg,baroque,romanticism
+367,Cuyp7.jpg,baroque,romanticism
+368,Danby1.jpg,romanticism,romanticism
+369,Danby10.jpg,romanticism,romanticism
+370,Danby11.jpg,romanticism,romanticism
+371,Danby12.jpg,romanticism,post impressionism
+372,Danby13.jpg,romanticism,romanticism
+373,Danby2.jpg,romanticism,romanticism
+374,Danby3.jpg,romanticism,romanticism
+375,Danby4.jpg,romanticism,romanticism
+376,Danby5.jpg,romanticism,romanticism
+377,Danby6.jpg,romanticism,romanticism
+378,Danby7.jpg,romanticism,romanticism
+379,Danby8.jpg,romanticism,romanticism
+380,Danby9.jpg,romanticism,romanticism
+381,Daubigny1.jpg,realism,romanticism
+382,Daubigny2.jpg,realism,post impressionism
+383,DavidFriedrich1.jpg,romanticism,romanticism
+384,DavidFriedrich2.jpg,romanticism,romanticism
+385,DavidFriedrich3.jpg,romanticism,romanticism
+386,DavidFriedrich4.jpg,romanticism,romanticism
+387,DavidFriedrich5.jpg,romanticism,romanticism
+388,DavidFriedrich6.jpg,romanticism,romanticism
+389,DavidFriedrich7.jpg,romanticism,romanticism
+390,DavidFriedrich8.jpg,romanticism,romanticism
+391,Degas1.jpg,impressionism,romanticism
+392,Degas10.jpg,impressionism,romanticism
+393,Degas11.jpg,impressionism,post impressionism
+394,Degas12.jpg,impressionism,post impressionism
+395,Degas13.jpg,impressionism,post impressionism
+396,Degas14.jpg,impressionism,realism
+397,Degas15.jpg,impressionism,post impressionism
+398,Degas16.jpg,impressionism,impressionism
+399,Degas17.jpg,impressionism,impressionism
+400,Degas18.jpg,impressionism,impressionism
+401,Degas19.jpg,impressionism,impressionism
+402,Degas2.jpg,impressionism,post impressionism
+403,Degas20.jpg,impressionism,impressionism
+404,Degas21.jpg,impressionism,post impressionism
+405,Degas22.jpg,impressionism,post impressionism
+406,Degas3.jpg,impressionism,impressionism
+407,Degas4.jpg,impressionism,romanticism
+408,Degas5.jpg,impressionism,post impressionism
+409,Degas6.jpg,impressionism,post impressionism
+410,Degas7.jpg,impressionism,post impressionism
+411,Degas8.jpg,impressionism,impressionism
+412,Degas9.jpg,impressionism,impressionism
+413,Delacroix1.jpg,romanticism,rococo
+414,Delacroix2.jpg,romanticism,rococo
+415,Delacroix3.jpg,romanticism,romanticism
+416,Delacroix4.jpg,romanticism,baroque
+417,Delacroix5.jpg,romanticism,rococo
+418,Delacroix6.jpg,romanticism,romanticism
+419,Delacroix7.jpg,romanticism,rococo
+420,Delaroche1.jpg,romanticism,baroque
+421,Delaroche2.jpg,romanticism,rococo
+422,Delaroche3.jpg,romanticism,romanticism
+423,Delaunay1.jpg,post impressionism,post impressionism
+424,Delaunay2.jpg,post impressionism,post impressionism
+425,Delaunay3.jpg,post impressionism,post impressionism
+426,Delaunay4.jpg,post impressionism,post impressionism
+427,Dewing1.jpg,impressionism,impressionism
+428,DirckHals1.jpg,baroque,rococo
+429,Domenichino1.jpg,baroque,renaissance
+430,Dossi1.jpg,renaissance,baroque
+431,Dossi2.jpg,renaissance,baroque
+432,Dou1.jpg,baroque,rococo
+433,Dou2.jpg,baroque,romanticism
+434,Drost1.jpg,baroque,classicism
+435,Ducreux1.jpg,realism,realism
+436,Dujardin1.jpg,baroque,classicism
+437,Dujardin2.jpg,baroque,classicism
+438,Durand1.jpg,romanticism,romanticism
+439,Durand2.jpg,romanticism,romanticism
+440,Durer1.jpg,baroque,renaissance
+441,Durer10.jpg,baroque,mannerism
+442,Durer11.jpg,baroque,mannerism
+443,Durer12.jpg,baroque,renaissance
+444,Durer2.jpg,baroque,mannerism
+445,Durer3.jpg,baroque,baroque
+446,Durer4.jpg,baroque,baroque
+447,Durer5.jpg,baroque,romanticism
+448,Durer6.jpg,baroque,mannerism
+449,Durer7.jpg,baroque,realism
+450,Durer8.jpg,baroque,romanticism
+451,Durer9.jpg,baroque,renaissance
+452,Eakins1.jpg,realism,romanticism
+453,Eakins10.jpg,realism,romanticism
+454,Eakins11.jpg,realism,impressionism
+455,Eakins12.jpg,realism,romanticism
+456,Eakins2.jpg,realism,rococo
+457,Eakins3.jpg,realism,romanticism
+458,Eakins4.jpg,realism,romanticism
+459,Eakins5.jpg,realism,post impressionism
+460,Eakins6.jpg,realism,romanticism
+461,Eakins7.jpg,realism,romanticism
+462,Eakins8.jpg,realism,impressionism
+463,Eakins9.jpg,realism,romanticism
+464,Earl1.jpg,classicism,romanticism
+465,Earl2.jpg,classicism,realism
+466,ElGreco1.jpg,mannerism,rococo
+467,ElGreco10.jpg,mannerism,realism
+468,ElGreco11.jpg,mannerism,mannerism
+469,ElGreco12.jpg,mannerism,expressionism
+470,ElGreco2.jpg,mannerism,romanticism
+471,ElGreco3.jpg,mannerism,classicism
+472,ElGreco4.jpg,mannerism,baroque
+473,ElGreco5.jpg,mannerism,mannerism
+474,ElGreco6.jpg,mannerism,realism
+475,ElGreco7.jpg,mannerism,mannerism
+476,ElGreco8.jpg,mannerism,classicism
+477,ElGreco9.jpg,mannerism,mannerism
+478,Elinga1.jpg,baroque,romanticism
+479,Empoli1.jpg,mannerism,baroque
+480,Eworth1.jpg,renaissance,baroque
+481,Fabritius1.jpg,baroque,mannerism
+482,Faccini1.jpg,baroque,baroque
+483,Fendi1.jpg,romanticism,post impressionism
+484,FerdinandVoet1.jpg,baroque,baroque
+485,Ferenczy1.jpg,realism,romanticism
+486,Fetti1.jpg,baroque,rococo
+487,Fetti2.jpg,baroque,romanticism
+488,Fetti3.jpg,baroque,mannerism
+489,Flinck1.jpg,baroque,romanticism
+490,Forte1.jpg,baroque,rococo
+491,Fragonard1.jpg,rococo,rococo
+492,Fragonard2.jpg,rococo,rococo
+493,Fragonard3.jpg,rococo,rococo
+494,Fragonard4.jpg,rococo,rococo
+495,Fragonard5.jpg,rococo,rococo
+496,Fragonard6.jpg,rococo,rococo
+497,Franceschini1.jpg,baroque,classicism
+498,FranckenYounger1.jpg,baroque,romanticism
+499,FranckenYounger2.jpg,baroque,rococo
+500,FranzMarc1.jpg,expressionism,post impressionism
+501,FranzMarc2.jpg,expressionism,expressionism
+502,FranzMarc3.jpg,expressionism,expressionism
+503,FranzMarc4.jpg,expressionism,expressionism
+504,FranzMarc5.jpg,expressionism,expressionism
+505,Frieseke1.jpg,impressionism,impressionism
+506,Frieseke2.jpg,impressionism,impressionism
+507,Frieseke3.jpg,impressionism,romanticism
+508,Fyt1.jpg,baroque,rococo
+509,Gainsborough1.jpg,rococo,rococo
+510,Gainsborough10.jpg,rococo,rococo
+511,Gainsborough2.jpg,rococo,rococo
+512,Gainsborough3.jpg,rococo,romanticism
+513,Gainsborough4.jpg,rococo,romanticism
+514,Gainsborough5.jpg,rococo,romanticism
+515,Gainsborough6.jpg,rococo,romanticism
+516,Gainsborough7.jpg,rococo,romanticism
+517,Gainsborough8.jpg,rococo,classicism
+518,Gainsborough9.jpg,rococo,rococo
+519,Garbieri1.jpg,baroque,mannerism
+520,Gargiulo1.jpg,baroque,rococo
+521,Garzoni1.jpg,baroque,baroque
+522,Gauguin10.jpg,post impressionism,impressionism
+523,Gauguin12.jpg,post impressionism,post impressionism
+524,Gauguin13.jpg,post impressionism,post impressionism
+525,Gauguin14.jpg,post impressionism,post impressionism
+526,Gauguin15.jpg,post impressionism,post impressionism
+527,Gauguin16.jpg,post impressionism,impressionism
+528,Gauguin17.jpg,post impressionism,post impressionism
+529,Gauguin18.jpg,post impressionism,impressionism
+530,Gauguin19.jpg,post impressionism,post impressionism
+531,Gauguin2.jpg,post impressionism,post impressionism
+532,Gauguin20.jpg,post impressionism,post impressionism
+533,Gauguin21.jpg,post impressionism,post impressionism
+534,Gauguin22.jpg,post impressionism,post impressionism
+535,Gauguin23.jpg,post impressionism,post impressionism
+536,Gauguin24.jpg,post impressionism,post impressionism
+537,Gauguin25.jpg,post impressionism,symbolism
+538,Gauguin3.jpg,post impressionism,post impressionism
+539,Gauguin4.jpg,post impressionism,post impressionism
+540,Gauguin5.jpg,post impressionism,post impressionism
+541,Gauguin6.jpg,post impressionism,post impressionism
+542,Gauguin7.jpg,post impressionism,post impressionism
+543,Gauguin8.jpg,post impressionism,post impressionism
+544,Gauguin9.jpg,post impressionism,post impressionism
+545,Gelder1.jpg,baroque,baroque
+546,Gennari1.jpg,baroque,classicism
+547,Gerard1.jpg,classicism,romanticism
+548,Gerard2.jpg,classicism,romanticism
+549,Gericault1.jpg,romanticism,romanticism
+550,Gericault2.jpg,romanticism,romanticism
+551,Gerstl1.jpg,expressionism,impressionism
+552,Gerstl2.jpg,expressionism,post impressionism
+553,Gerstl3.jpg,expressionism,expressionism
+554,Gerstl4.jpg,expressionism,post impressionism
+555,Gestel1.jpg,expressionism,post impressionism
+556,GheeraertsYounger1.jpg,baroque,baroque
+557,GheeraertsYounger2.jpg,baroque,renaissance
+558,Giaquinto1.jpg,rococo,rococo
+559,Giersing1.jpg,impressionism,post impressionism
+560,Giordano1.jpg,baroque,baroque
+561,Giordano2.jpg,baroque,rococo
+562,Giordano3.jpg,baroque,classicism
+563,Giordano4.jpg,baroque,baroque
+564,Giordano5.jpg,baroque,rococo
+565,Giordano6.jpg,baroque,baroque
+566,Giorgione1.jpg,renaissance,romanticism
+567,Giorgione2.jpg,renaissance,classicism
+568,Giorgione3.jpg,renaissance,mannerism
+569,Giorgione4.jpg,renaissance,mannerism
+570,Giorgione5.jpg,renaissance,mannerism
+571,Giorgione6.jpg,renaissance,romanticism
+572,Goltzius1.jpg,baroque,classicism
+573,Gonzales1.jpg,impressionism,impressionism
+574,Goya1.jpg,romanticism,baroque
+575,Goya10.jpg,romanticism,rococo
+576,Goya2.jpg,romanticism,rococo
+577,Goya3.jpg,romanticism,romanticism
+578,Goya4.jpg,romanticism,mannerism
+579,Goya5.jpg,romanticism,romanticism
+580,Goya6.jpg,romanticism,realism
+581,Goya7.jpg,romanticism,rococo
+582,Goya8.jpg,romanticism,romanticism
+583,Goya9.jpg,romanticism,rococo
+584,Griffier1.jpg,baroque,romanticism
+585,Griffier2.jpg,baroque,romanticism
+586,Gros1.jpg,classicism,rococo
+587,Gros2.jpg,classicism,rococo
+588,Gruelle1.jpg,impressionism,romanticism
+589,Guercino1.jpg,baroque,mannerism
+590,Guercino2.jpg,baroque,classicism
+591,Guercino3.jpg,baroque,classicism
+592,Guercino4.jpg,baroque,classicism
+593,Guercino5.jpg,baroque,renaissance
+594,Guillaumin1.jpg,impressionism,post impressionism
+595,Guillaumin2.jpg,impressionism,impressionism
+596,Hals1.jpg,baroque,baroque
+597,Hals2.jpg,baroque,mannerism
+598,Hals3.jpg,baroque,romanticism
+599,Hals4.jpg,baroque,baroque
+600,Hals5.jpg,baroque,mannerism
+601,Hals6.jpg,baroque,mannerism
+602,Hals7.jpg,baroque,mannerism
+603,Hals8.jpg,baroque,realism
+604,Hassam10.jpg,impressionism,impressionism
+605,Hassam2.jpg,impressionism,impressionism
+606,Hassam3.jpg,impressionism,impressionism
+607,Hassam4.jpg,impressionism,impressionism
+608,Hassam5.jpg,impressionism,impressionism
+609,Hassam6.jpg,impressionism,romanticism
+610,Hassam7.jpg,impressionism,impressionism
+611,Hassam8.jpg,impressionism,post impressionism
+612,Hassam9.jpg,impressionism,impressionism
+613,HerreraElder1.jpg,baroque,baroque
+614,Herring1.jpg,realism,romanticism
+615,Herring10.jpg,realism,romanticism
+616,Herring11.jpg,realism,romanticism
+617,Herring12.jpg,realism,romanticism
+618,Herring2.jpg,realism,romanticism
+619,Herring3.jpg,realism,romanticism
+620,Herring4.jpg,realism,romanticism
+621,Herring5.jpg,realism,romanticism
+622,Herring6.jpg,realism,romanticism
+623,Herring7.jpg,realism,romanticism
+624,Herring8.jpg,realism,romanticism
+625,Herring9.jpg,realism,romanticism
+626,Hill1.jpg,impressionism,romanticism
+627,Hilliard1.jpg,renaissance,baroque
+628,Hobbema1.jpg,baroque,romanticism
+629,Hobbema2.jpg,baroque,romanticism
+630,Hogarth1.jpg,realism,rococo
+631,Hogarth10.jpg,realism,rococo
+632,Hogarth2.jpg,realism,rococo
+633,Hogarth3.jpg,realism,rococo
+634,Hogarth4.jpg,realism,rococo
+635,Hogarth5.jpg,realism,classicism
+636,Hogarth6.jpg,realism,rococo
+637,Hogarth7.jpg,realism,rococo
+638,Hogarth8.jpg,realism,rococo
+639,Hogarth9.jpg,realism,baroque
+640,Holbein1.jpg,renaissance,renaissance
+641,Holbein2.jpg,renaissance,renaissance
+642,Holbein3.jpg,renaissance,baroque
+643,Holbein5.jpg,renaissance,baroque
+644,Holbein6.jpg,renaissance,renaissance
+645,Homer1.jpg,realism,romanticism
+646,Homer2.jpg,realism,romanticism
+647,Homer3.jpg,realism,romanticism
+648,Homer4.jpg,realism,romanticism
+649,Homer6.jpg,realism,romanticism
+650,Homer7.jpg,realism,romanticism
+651,Homer8.jpg,realism,romanticism
+652,Homer9.jpg,realism,romanticism
+653,Hulsdonck1.jpg,baroque,rococo
+654,Hunter1.jpg,impressionism,romanticism
+655,Ingres1.jpg,classicism,mannerism
+656,Ingres2.jpg,classicism,romanticism
+657,Ingres3.jpg,classicism,romanticism
+658,Ingres4.jpg,classicism,romanticism
+659,Ingres6.jpg,classicism,romanticism
+660,Ingres7.jpg,classicism,rococo
+661,Jansz1.jpg,baroque,romanticism
+662,Jawlensky1.jpg,expressionism,expressionism
+663,Jawlensky2.jpg,expressionism,expressionism
+664,Jawlensky3.jpg,expressionism,expressionism
+665,Jawlensky4.jpg,expressionism,post impressionism
+666,Jawlensky5.jpg,expressionism,expressionism
+667,Jeaurat1.jpg,rococo,romanticism
+668,Jongkind1.jpg,impressionism,impressionism
+669,Jongkind2.jpg,impressionism,romanticism
+670,Jongkind3.jpg,impressionism,romanticism
+671,Jongkind4.jpg,impressionism,romanticism
+672,Jordaens1.jpg,baroque,rococo
+673,Jordaens3.jpg,baroque,rococo
+674,Jordaens4.jpg,baroque,rococo
+675,Jordaens5.jpg,baroque,rococo
+676,Jordaens6.jpg,baroque,mannerism
+677,Kalf1.jpg,baroque,romanticism
+678,Kalf2.jpg,baroque,rococo
+679,Khnopff1.jpg,symbolism,symbolism
+680,Kiprensky1.jpg,romanticism,romanticism
+681,Kiprensky2.jpg,romanticism,romanticism
+682,Kiprensky3.jpg,romanticism,realism
+683,Kirchner1.jpg,expressionism,post impressionism
+684,Kirchner2.jpg,expressionism,post impressionism
+685,Kirchner3.jpg,expressionism,expressionism
+686,Kirchner4.jpg,expressionism,post impressionism
+687,Kirchner5.jpg,expressionism,expressionism
+688,Kirchner6.jpg,expressionism,post impressionism
+689,Klee1.jpg,expressionism,post impressionism
+690,Klee2.jpg,expressionism,symbolism
+691,Kneller1.jpg,baroque,baroque
+692,Kneller2.jpg,baroque,rococo
+693,Kneller3.jpg,baroque,rococo
+694,Knupfer1.jpg,baroque,rococo
+695,Koets1.jpg,baroque,rococo
+696,Koninck1.jpg,baroque,rococo
+697,Korovin1.jpg,impressionism,post impressionism
+698,Kramskoi1.jpg,realism,romanticism
+699,Kramskoi2.jpg,realism,romanticism
+700,Kuindzhi1.jpg,realism,romanticism
+701,Lamb1.jpg,post impressionism,realism
+702,Lanfranco1.jpg,baroque,classicism
+703,Laroon1.jpg,rococo,rococo
+704,Laroon2.jpg,rococo,rococo
+705,Laroon3.jpg,rococo,baroque
+706,Laroon4.jpg,rococo,romanticism
+707,Laroon7.jpg,rococo,rococo
+708,Laroon8.jpg,rococo,rococo
+709,Lastman2.jpg,baroque,baroque
+710,Latour1.jpg,symbolism,romanticism
+711,Latour2.jpg,symbolism,romanticism
+712,Latour3.jpg,symbolism,romanticism
+713,Latour4.jpg,symbolism,romanticism
+714,Latour5.jpg,symbolism,romanticism
+715,Latour6.jpg,symbolism,romanticism
+716,Latour7.jpg,symbolism,romanticism
+717,Latour8.jpg,symbolism,romanticism
+718,Laval1.jpg,post impressionism,post impressionism
+719,LeBrun1.jpg,baroque,rococo
+720,LeBrun2.jpg,baroque,classicism
+721,LeBrun3.jpg,baroque,rococo
+722,LeSidaner1.jpg,impressionism,impressionism
+723,LeSidaner2.jpg,impressionism,post impressionism
+724,LeSidaner3.jpg,impressionism,post impressionism
+725,LeSueur1.jpg,baroque,rococo
+726,Lely1.jpg,baroque,mannerism
+727,Lely2.jpg,baroque,rococo
+728,Lely3.jpg,baroque,rococo
+729,Lely4.jpg,baroque,rococo
+730,Lely6.jpg,baroque,rococo
+731,Lely7.jpg,baroque,rococo
+732,Levitan1.jpg,realism,impressionism
+733,Leyster1.jpg,baroque,baroque
+734,Leyster2.jpg,baroque,mannerism
+735,Leyster3.jpg,baroque,baroque
+736,Liebermann1.jpg,realism,romanticism
+737,Liebermann2.jpg,realism,impressionism
+738,Liebermann3.jpg,realism,romanticism
+739,Liebermann4.jpg,realism,impressionism
+740,Liebermann5.jpg,realism,post impressionism
+741,Liebermann6.jpg,realism,impressionism
+742,Lotto1.jpg,renaissance,renaissance
+743,Lotto2.jpg,renaissance,romanticism
+744,Lotto3.jpg,renaissance,romanticism
+745,Lotto4.jpg,renaissance,renaissance
+746,Lotto5.jpg,renaissance,classicism
+747,Lotto6.jpg,renaissance,classicism
+748,LouisDavid1.jpg,classicism,romanticism
+749,LouisDavid2.jpg,classicism,rococo
+750,LouisDavid3.jpg,classicism,classicism
+751,LouisDavid4.jpg,classicism,classicism
+752,LouisDavid6.jpg,classicism,rococo
+753,LouisDavid7.jpg,classicism,classicism
+754,LouisDavid8.jpg,classicism,classicism
+755,Luce1.jpg,post impressionism,post impressionism
+756,Luce2.jpg,post impressionism,post impressionism
+757,Luycx1.jpg,baroque,baroque
+758,Lyall1.jpg,impressionism,romanticism
+759,Maes2.jpg,baroque,baroque
+760,Maes3.jpg,baroque,romanticism
+761,Magnasco1.jpg,rococo,rococo
+762,Magnasco2.jpg,rococo,rococo
+763,Magnasco3.jpg,rococo,classicism
+764,Malharro1.jpg,post impressionism,post impressionism
+765,Malharro2.jpg,post impressionism,impressionism
+766,Malharro3.jpg,post impressionism,impressionism
+767,Malharro4.jpg,post impressionism,impressionism
+768,Malharro5.jpg,post impressionism,post impressionism
+769,Malmstrom1.jpg,symbolism,romanticism
+770,Manet1.jpg,realism,post impressionism
+771,Manet10.jpg,realism,impressionism
+772,Manet11.jpg,realism,romanticism
+773,Manet12.jpg,realism,romanticism
+774,Manet13.jpg,realism,romanticism
+775,Manet14.jpg,realism,romanticism
+776,Manet15.jpg,realism,impressionism
+777,Manet16.jpg,realism,post impressionism
+778,Manet17.jpg,realism,romanticism
+779,Manet18.jpg,realism,romanticism
+780,Manet19.jpg,realism,impressionism
+781,Manet2.jpg,realism,romanticism
+782,Manet20.jpg,realism,romanticism
+783,Manet21.jpg,realism,post impressionism
+784,Manet22.jpg,realism,impressionism
+785,Manet23.jpg,realism,post impressionism
+786,Manet24.jpg,realism,mannerism
+787,Manet3.jpg,realism,impressionism
+788,Manet4.jpg,realism,romanticism
+789,Manet5.jpg,realism,impressionism
+790,Manet6.jpg,realism,post impressionism
+791,Manet7.jpg,realism,romanticism
+792,Manet8.jpg,realism,realism
+793,Manet9.jpg,realism,symbolism
+794,Manfredi1.jpg,baroque,mannerism
+795,MartendeVos1.jpg,baroque,classicism
+796,Matsys1.jpg,baroque,realism
+797,Mauve1.jpg,realism,impressionism
+798,Mauve2.jpg,realism,impressionism
+799,Mauve3.jpg,realism,impressionism
+800,Mauve4.jpg,realism,post impressionism
+801,Mauve5.jpg,realism,impressionism
+802,McTaggart1.jpg,impressionism,romanticism
+803,Mellin1.jpg,baroque,symbolism
+804,Mengs1.jpg,classicism,classicism
+805,Mengs2.jpg,classicism,classicism
+806,MerrittChase1.jpg,impressionism,impressionism
+807,MerrittChase2.jpg,impressionism,romanticism
+808,MerrittChase3.jpg,impressionism,romanticism
+809,MerrittChase4.jpg,impressionism,romanticism
+810,MerrittChase5.jpg,impressionism,romanticism
+811,MerrittChase6.jpg,impressionism,impressionism
+812,MerrittChase7.jpg,impressionism,impressionism
+813,MerrittChase8.jpg,impressionism,romanticism
+814,Metcalf1.jpg,impressionism,romanticism
+815,Metcalf2.jpg,impressionism,impressionism
+816,Metsu1.jpg,baroque,mannerism
+817,Metsu2.jpg,baroque,mannerism
+818,Metsu3.jpg,baroque,classicism
+819,Mignon1.jpg,baroque,baroque
+820,Millet1.jpg,realism,romanticism
+821,Millet2.jpg,realism,romanticism
+822,Millet3.jpg,realism,romanticism
+823,Millet4.jpg,realism,romanticism
+824,Millet5.jpg,realism,romanticism
+825,Millet6.jpg,realism,impressionism
+826,Millet7.jpg,realism,romanticism
+827,Millet8.jpg,realism,romanticism
+828,Millet9.jpg,realism,romanticism
+829,Miranda1.jpg,baroque,baroque
+830,Mola1.jpg,baroque,mannerism
+831,Monet1.jpg,impressionism,impressionism
+832,Monet10.jpg,impressionism,impressionism
+833,Monet11.jpg,impressionism,impressionism
+834,Monet12.jpg,impressionism,impressionism
+835,Monet13.jpg,impressionism,impressionism
+836,Monet14.jpg,impressionism,impressionism
+837,Monet15.jpg,impressionism,impressionism
+838,Monet16.jpg,impressionism,impressionism
+839,Monet17.jpg,impressionism,post impressionism
+840,Monet18.jpg,impressionism,post impressionism
+841,Monet19.jpg,impressionism,impressionism
+842,Monet2.jpg,impressionism,impressionism
+843,Monet20.jpg,impressionism,impressionism
+844,Monet21.jpg,impressionism,impressionism
+845,Monet22.jpg,impressionism,impressionism
+846,Monet23.jpg,impressionism,impressionism
+847,Monet24.jpg,impressionism,impressionism
+848,Monet26.jpg,impressionism,impressionism
+849,Monet28.jpg,impressionism,impressionism
+850,Monet29.jpg,impressionism,impressionism
+851,Monet3.jpg,impressionism,impressionism
+852,Monet31.jpg,impressionism,impressionism
+853,Monet34.jpg,impressionism,post impressionism
+854,Monet35.jpg,impressionism,impressionism
+855,Monet36.jpg,impressionism,impressionism
+856,Monet37.jpg,impressionism,impressionism
+857,Monet38.jpg,impressionism,impressionism
+858,Monet39.jpg,impressionism,impressionism
+859,Monet4.jpg,impressionism,impressionism
+860,Monet40.jpg,impressionism,impressionism
+861,Monet41.jpg,impressionism,impressionism
+862,Monet5.jpg,impressionism,post impressionism
+863,Monet7.jpg,impressionism,impressionism
+864,Monet8.jpg,impressionism,impressionism
+865,Monet9.jpg,impressionism,impressionism
+866,Moreau1.jpg,symbolism,rococo
+867,Morisot1.jpg,impressionism,impressionism
+868,Morisot2.jpg,impressionism,impressionism
+869,MulierElder1.jpg,baroque,romanticism
+870,Munnichhoven1.jpg,baroque,rococo
+871,Murillo1.jpg,baroque,baroque
+872,Murillo2.jpg,baroque,classicism
+873,Murillo3.jpg,baroque,classicism
+874,Murillo4.jpg,baroque,classicism
+875,Murillo5.jpg,baroque,baroque
+876,Murillo6.jpg,baroque,baroque
+877,Murillo7.jpg,baroque,mannerism
+878,Nonell1.jpg,post impressionism,post impressionism
+879,Nonell10.jpg,post impressionism,impressionism
+880,Nonell2.jpg,post impressionism,post impressionism
+881,Nonell3.jpg,post impressionism,post impressionism
+882,Nonell4.jpg,post impressionism,impressionism
+883,Nonell5.jpg,post impressionism,post impressionism
+884,Nonell6.jpg,post impressionism,post impressionism
+885,Nonell8.jpg,post impressionism,post impressionism
+886,Nonell9.jpg,post impressionism,post impressionism
+887,Nuvolone1.jpg,mannerism,classicism
+888,Oliver1.jpg,renaissance,baroque
+889,Overbeck1.jpg,romanticism,mannerism
+890,Panini1.jpg,baroque,classicism
+891,Panini2.jpg,baroque,classicism
+892,Paolini1.jpg,baroque,romanticism
+893,Parmigianino1.jpg,renaissance,baroque
+894,Parmigianino3.jpg,renaissance,rococo
+895,Pellegrini1.jpg,baroque,classicism
+896,Perov1.jpg,realism,romanticism
+897,Perov2.jpg,realism,romanticism
+898,PhilippedeChampaigne1.jpg,baroque,mannerism
+899,Philipsen1.jpg,impressionism,romanticism
+900,Philipsen2.jpg,impressionism,impressionism
+901,Pissarro1.jpg,post impressionism,impressionism
+902,Pissarro10.jpg,post impressionism,impressionism
+903,Pissarro11.jpg,post impressionism,impressionism
+904,Pissarro12.jpg,post impressionism,post impressionism
+905,Pissarro13.jpg,post impressionism,post impressionism
+906,Pissarro14.jpg,post impressionism,post impressionism
+907,Pissarro15.jpg,post impressionism,romanticism
+908,Pissarro16.jpg,post impressionism,impressionism
+909,Pissarro18.jpg,post impressionism,impressionism
+910,Pissarro19.jpg,post impressionism,post impressionism
+911,Pissarro2.jpg,post impressionism,post impressionism
+912,Pissarro20.jpg,post impressionism,impressionism
+913,Pissarro21.jpg,post impressionism,post impressionism
+914,Pissarro22.jpg,post impressionism,post impressionism
+915,Pissarro4.jpg,post impressionism,post impressionism
+916,Pissarro5.jpg,post impressionism,post impressionism
+917,Pissarro6.jpg,post impressionism,impressionism
+918,Pissarro8.jpg,post impressionism,impressionism
+919,Pissarro9.jpg,post impressionism,impressionism
+920,Polenov1.jpg,realism,romanticism
+921,Pollard1.jpg,realism,romanticism
+922,Pollard10.jpg,realism,romanticism
+923,Pollard11.jpg,realism,romanticism
+924,Pollard12.jpg,realism,post impressionism
+925,Pollard2.jpg,realism,romanticism
+926,Pollard3.jpg,realism,romanticism
+927,Pollard4.jpg,realism,romanticism
+928,Pollard6.jpg,realism,romanticism
+929,Pollard7.jpg,realism,romanticism
+930,Pollard8.jpg,realism,romanticism
+931,Pollard9.jpg,realism,romanticism
+932,Pontormo1.jpg,renaissance,classicism
+933,Pontormo2.jpg,renaissance,mannerism
+934,Pontormo3.jpg,renaissance,renaissance
+935,Pontormo4.jpg,renaissance,romanticism
+936,Potter1.jpg,baroque,romanticism
+937,Poussin1.jpg,baroque,romanticism
+938,Poussin10.jpg,baroque,classicism
+939,Poussin11.jpg,baroque,classicism
+940,Poussin12.jpg,baroque,classicism
+941,Poussin13.jpg,baroque,classicism
+942,Poussin14.jpg,baroque,classicism
+943,Poussin15.jpg,baroque,rococo
+944,Poussin16.jpg,baroque,classicism
+945,Poussin18.jpg,baroque,classicism
+946,Poussin19.jpg,baroque,rococo
+947,Poussin20.jpg,baroque,classicism
+948,Poussin3.jpg,baroque,romanticism
+949,Poussin4.jpg,baroque,classicism
+950,Poussin5.jpg,baroque,rococo
+951,Poussin6.jpg,baroque,romanticism
+952,Poussin7.jpg,baroque,classicism
+953,Poussin8.jpg,baroque,classicism
+954,Poussin9.jpg,baroque,classicism
+955,Prendergast1.jpg,post impressionism,post impressionism
+956,Preti1.jpg,baroque,renaissance
+957,Preti2.jpg,baroque,baroque
+958,Procaccini2.jpg,baroque,baroque
+959,Pynacker1.jpg,baroque,rococo
+960,Pynacker2.jpg,baroque,romanticism
+961,Redon1.jpg,symbolism,post impressionism
+962,Redon2.jpg,symbolism,expressionism
+963,Redon3.jpg,symbolism,impressionism
+964,Redon4.jpg,symbolism,impressionism
+965,Redon6.jpg,symbolism,impressionism
+966,Redon7.jpg,symbolism,impressionism
+967,Rembrandt1.jpg,baroque,mannerism
+968,Rembrandt10.jpg,baroque,romanticism
+969,Rembrandt11.jpg,baroque,mannerism
+970,Rembrandt12.jpg,baroque,symbolism
+971,Rembrandt13.jpg,baroque,symbolism
+972,Rembrandt14.jpg,baroque,mannerism
+973,Rembrandt16.jpg,baroque,romanticism
+974,Rembrandt17.jpg,baroque,rococo
+975,Rembrandt19.jpg,baroque,romanticism
+976,Rembrandt2.jpg,baroque,mannerism
+977,Rembrandt20.jpg,baroque,classicism
+978,Rembrandt21.jpg,baroque,rococo
+979,Rembrandt22.jpg,baroque,baroque
+980,Rembrandt23.jpg,baroque,rococo
+981,Rembrandt24.jpg,baroque,baroque
+982,Rembrandt25.jpg,baroque,rococo
+983,Rembrandt26.jpg,baroque,mannerism
+984,Rembrandt27.jpg,baroque,baroque
+985,Rembrandt28.jpg,baroque,baroque
+986,Rembrandt29.jpg,baroque,baroque
+987,Rembrandt30.jpg,baroque,mannerism
+988,Rembrandt31.jpg,baroque,baroque
+989,Rembrandt32.jpg,baroque,baroque
+990,Rembrandt33.jpg,baroque,romanticism
+991,Rembrandt34.jpg,baroque,romanticism
+992,Rembrandt35.jpg,baroque,baroque
+993,Rembrandt36.jpg,baroque,romanticism
+994,Rembrandt37.jpg,baroque,romanticism
+995,Rembrandt38.jpg,baroque,romanticism
+996,Rembrandt39.jpg,baroque,realism
+997,Rembrandt40.jpg,baroque,romanticism
+998,Rembrandt41.jpg,baroque,romanticism
+999,Rembrandt42.jpg,baroque,baroque
+1000,Rembrandt5.jpg,baroque,rococo
+1001,Rembrandt6.jpg,baroque,romanticism
+1002,Rembrandt7.jpg,baroque,romanticism
+1003,Rembrandt8.jpg,baroque,mannerism
+1004,Rembrandt9.jpg,baroque,baroque
+1005,Reni1.jpg,baroque,classicism
+1006,Reni2.jpg,baroque,classicism
+1007,Reni3.jpg,baroque,classicism
+1008,Reni4.jpg,baroque,mannerism
+1009,Reni5.jpg,baroque,classicism
+1010,Renoir1.jpg,impressionism,post impressionism
+1011,Renoir10.jpg,impressionism,post impressionism
+1012,Renoir11.jpg,impressionism,impressionism
+1013,Renoir12.jpg,impressionism,impressionism
+1014,Renoir13.jpg,impressionism,romanticism
+1015,Renoir14.jpg,impressionism,romanticism
+1016,Renoir15.jpg,impressionism,impressionism
+1017,Renoir16.jpg,impressionism,impressionism
+1018,Renoir17.jpg,impressionism,impressionism
+1019,Renoir18.jpg,impressionism,romanticism
+1020,Renoir19.jpg,impressionism,impressionism
+1021,Renoir2.jpg,impressionism,impressionism
+1022,Renoir20.jpg,impressionism,impressionism
+1023,Renoir21.jpg,impressionism,impressionism
+1024,Renoir23.jpg,impressionism,romanticism
+1025,Renoir24.jpg,impressionism,impressionism
+1026,Renoir25.jpg,impressionism,impressionism
+1027,Renoir26.jpg,impressionism,impressionism
+1028,Renoir27.jpg,impressionism,impressionism
+1029,Renoir28.jpg,impressionism,impressionism
+1030,Renoir29.jpg,impressionism,impressionism
+1031,Renoir3.jpg,impressionism,impressionism
+1032,Renoir30.jpg,impressionism,impressionism
+1033,Renoir31.jpg,impressionism,impressionism
+1034,Renoir32.jpg,impressionism,impressionism
+1035,Renoir33.jpg,impressionism,post impressionism
+1036,Renoir34.jpg,impressionism,impressionism
+1037,Renoir35.jpg,impressionism,romanticism
+1038,Renoir36.jpg,impressionism,post impressionism
+1039,Renoir37.jpg,impressionism,impressionism
+1040,Renoir38.jpg,impressionism,impressionism
+1041,Renoir39.jpg,impressionism,post impressionism
+1042,Renoir4.jpg,impressionism,impressionism
+1043,Renoir5.jpg,impressionism,impressionism
+1044,Renoir6.jpg,impressionism,impressionism
+1045,Renoir7.jpg,impressionism,impressionism
+1046,Renoir8.jpg,impressionism,impressionism
+1047,Renoir9.jpg,impressionism,impressionism
+1048,Repin1.jpg,realism,romanticism
+1049,Repin2.jpg,realism,romanticism
+1050,Repin3.jpg,realism,impressionism
+1051,Repin4.jpg,realism,romanticism
+1052,Repin5.jpg,realism,romanticism
+1053,Reynolds1.jpg,rococo,rococo
+1054,Reynolds10.jpg,rococo,romanticism
+1055,Reynolds11.jpg,rococo,romanticism
+1056,Reynolds12.jpg,rococo,rococo
+1057,Reynolds13.jpg,rococo,rococo
+1058,Reynolds14.jpg,rococo,impressionism
+1059,Reynolds15.jpg,rococo,romanticism
+1060,Reynolds16.jpg,rococo,rococo
+1061,Reynolds17.jpg,rococo,rococo
+1062,Reynolds2.jpg,rococo,rococo
+1063,Reynolds3.jpg,rococo,romanticism
+1064,Reynolds4.jpg,rococo,rococo
+1065,Reynolds5.jpg,rococo,rococo
+1066,Reynolds6.jpg,rococo,rococo
+1067,Reynolds7.jpg,rococo,romanticism
+1068,Reynolds8.jpg,rococo,rococo
+1069,Reynolds9.jpg,rococo,romanticism
+1070,Ricci1.jpg,baroque,rococo
+1071,Ricci2.jpg,baroque,romanticism
+1072,Richter1.jpg,romanticism,romanticism
+1073,Richter2.jpg,romanticism,romanticism
+1074,Richter3.jpg,romanticism,romanticism
+1075,Richter4.jpg,romanticism,romanticism
+1076,Rigaud1.jpg,baroque,baroque
+1077,Rigaud2.jpg,baroque,baroque
+1078,Rigaud3.jpg,baroque,rococo
+1079,Rigaud4.jpg,baroque,baroque
+1080,Rigaud5.jpg,baroque,baroque
+1081,Rigaud6.jpg,baroque,baroque
+1082,Rigaud7.jpg,baroque,baroque
+1083,RipplRonai1.jpg,post impressionism,post impressionism
+1084,RipplRonai2.jpg,post impressionism,romanticism
+1085,Ritman1.jpg,impressionism,romanticism
+1086,Rizi1.jpg,baroque,baroque
+1087,Rizi2.jpg,baroque,baroque
+1088,Rizi3.jpg,baroque,baroque
+1089,Romanelli1.jpg,baroque,classicism
+1090,Romano1.jpg,renaissance,baroque
+1091,Rombouts1.jpg,baroque,mannerism
+1092,Rosa1.jpg,baroque,classicism
+1093,Rosa2.jpg,baroque,mannerism
+1094,Rosa3.jpg,baroque,rococo
+1095,Rosa4.jpg,baroque,romanticism
+1096,Rousseau1.jpg,post impressionism,symbolism
+1097,Rousseau10.jpg,post impressionism,romanticism
+1098,Rousseau2.jpg,post impressionism,realism
+1099,Rousseau3.jpg,post impressionism,symbolism
+1100,Rousseau4.jpg,post impressionism,symbolism
+1101,Rousseau5.jpg,post impressionism,symbolism
+1102,Rousseau6.jpg,post impressionism,post impressionism
+1103,Rousseau7.jpg,post impressionism,romanticism
+1104,Rousseau8.jpg,post impressionism,post impressionism
+1105,Rousseau9.jpg,post impressionism,realism
+1106,Rubens1.jpg,baroque,baroque
+1107,Rubens10.jpg,baroque,rococo
+1108,Rubens2.jpg,baroque,rococo
+1109,Rubens3.jpg,baroque,classicism
+1110,Rubens4.jpg,baroque,mannerism
+1111,Rubens5.jpg,baroque,rococo
+1112,Rubens6.jpg,baroque,rococo
+1113,Rubens7.jpg,baroque,rococo
+1114,Rubens8.jpg,baroque,rococo
+1115,Rubens9.jpg,baroque,baroque
+1116,Runge1.jpg,romanticism,romanticism
+1117,Ruokokoski1.jpg,expressionism,post impressionism
+1118,Ruokokoski2.jpg,expressionism,post impressionism
+1119,Ruokokoski3.jpg,expressionism,expressionism
+1120,Rusinol1.jpg,post impressionism,romanticism
+1121,Rusinol10.jpg,post impressionism,romanticism
+1122,Rusinol11.jpg,post impressionism,impressionism
+1123,Rusinol12.jpg,post impressionism,realism
+1124,Rusinol13.jpg,post impressionism,romanticism
+1125,Rusinol14.jpg,post impressionism,romanticism
+1126,Rusinol2.jpg,post impressionism,post impressionism
+1127,Rusinol3.jpg,post impressionism,impressionism
+1128,Rusinol4.jpg,post impressionism,romanticism
+1129,Rusinol5.jpg,post impressionism,impressionism
+1130,Rusinol6.jpg,post impressionism,impressionism
+1131,Rusinol7.jpg,post impressionism,romanticism
+1132,Rusinol8.jpg,post impressionism,impressionism
+1133,Rusinol9.jpg,post impressionism,impressionism
+1134,Ruysch1.jpg,baroque,baroque
+1135,Saenredam1.jpg,baroque,baroque
+1136,Saenredam2.jpg,baroque,classicism
+1137,Saenredam3.jpg,baroque,baroque
+1138,Saenredam4.jpg,baroque,classicism
+1139,Saenredam5.jpg,baroque,classicism
+1140,Saenredam6.jpg,baroque,romanticism
+1141,Saenredam7.jpg,baroque,classicism
+1142,Saftleven1.jpg,baroque,romanticism
+1143,Sailmaker1.jpg,baroque,rococo
+1144,Sailmaker2.jpg,baroque,romanticism
+1145,Sanzio1.jpg,renaissance,renaissance
+1146,Sanzio2.jpg,renaissance,mannerism
+1147,Sanzio3.jpg,renaissance,renaissance
+1148,Sanzio4.jpg,renaissance,renaissance
+1149,Sanzio5.jpg,renaissance,renaissance
+1150,Savery1.jpg,baroque,rococo
+1151,Savrasov1.jpg,realism,romanticism
+1152,SebastianoRicci1.jpg,baroque,rococo
+1153,SebastianoRicci2.jpg,baroque,rococo
+1154,SebastianoRicci3.jpg,baroque,rococo
+1155,SebastianoRicci4.jpg,baroque,classicism
+1156,Segantini1.jpg,symbolism,impressionism
+1157,Serov1.jpg,realism,impressionism
+1158,Serov2.jpg,realism,post impressionism
+1159,Serov3.jpg,realism,romanticism
+1160,Seurat1.jpg,post impressionism,impressionism
+1161,Shishkin1.jpg,realism,impressionism
+1162,Shishkin2.jpg,realism,romanticism
+1163,Siberechts1.jpg,baroque,classicism
+1164,Signac1.jpg,post impressionism,post impressionism
+1165,Signac10.jpg,post impressionism,impressionism
+1166,Signac2.jpg,post impressionism,impressionism
+1167,Signac3.jpg,post impressionism,post impressionism
+1168,Signac4.jpg,post impressionism,impressionism
+1169,Signac5.jpg,post impressionism,post impressionism
+1170,Signac6.jpg,post impressionism,post impressionism
+1171,Signac7.jpg,post impressionism,post impressionism
+1172,Signac8.jpg,post impressionism,post impressionism
+1173,Signac9.jpg,post impressionism,post impressionism
+1174,Sisley1.jpg,impressionism,impressionism
+1175,Sisley10.jpg,impressionism,post impressionism
+1176,Sisley11.jpg,impressionism,impressionism
+1177,Sisley12.jpg,impressionism,impressionism
+1178,Sisley13.jpg,impressionism,post impressionism
+1179,Sisley14.jpg,impressionism,impressionism
+1180,Sisley2.jpg,impressionism,post impressionism
+1181,Sisley3.jpg,impressionism,post impressionism
+1182,Sisley4.jpg,impressionism,impressionism
+1183,Sisley5.jpg,impressionism,impressionism
+1184,Sisley6.jpg,impressionism,post impressionism
+1185,Sisley7.jpg,impressionism,impressionism
+1186,Sisley8.jpg,impressionism,romanticism
+1187,Sisley9.jpg,impressionism,impressionism
+1188,Skovgaard1.jpg,romanticism,romanticism
+1189,Skreta1.jpg,baroque,baroque
+1190,Snyders1.jpg,baroque,rococo
+1191,Snyders2.jpg,baroque,romanticism
+1192,Soest1.jpg,baroque,realism
+1193,Sorolla1.jpg,impressionism,impressionism
+1194,Sorolla2.jpg,impressionism,impressionism
+1195,Sorolla3.jpg,impressionism,romanticism
+1196,Spranger1.jpg,renaissance,baroque
+1197,Stanzione1.jpg,baroque,classicism
+1198,Staphorst1.jpg,baroque,baroque
+1199,Steele1.jpg,impressionism,impressionism
+1200,Steele2.jpg,impressionism,romanticism
+1201,Steen1.jpg,baroque,romanticism
+1202,Steen10.jpg,baroque,romanticism
+1203,Steen11.jpg,baroque,romanticism
+1204,Steen12.jpg,baroque,mannerism
+1205,Steen13.jpg,baroque,baroque
+1206,Steen2.jpg,baroque,romanticism
+1207,Steen3.jpg,baroque,mannerism
+1208,Steen4.jpg,baroque,romanticism
+1209,Steen5.jpg,baroque,classicism
+1210,Steen6.jpg,baroque,baroque
+1211,Steen8.jpg,baroque,baroque
+1212,Steen9.jpg,baroque,baroque
+1213,Stom1.jpg,baroque,baroque
+1214,Stom2.jpg,baroque,classicism
+1215,Stom3.jpg,baroque,classicism
+1216,Stuart1.jpg,classicism,realism
+1217,Stuart2.jpg,classicism,realism
+1218,Stuck1.jpg,symbolism,romanticism
+1219,Surikov1.jpg,realism,romanticism
+1220,Surikov2.jpg,realism,romanticism
+1221,Surikov4.jpg,realism,romanticism
+1222,TRousseau1.jpg,romanticism,romanticism
+1223,TRousseau2.jpg,romanticism,romanticism
+1224,Tarbell2.jpg,impressionism,impressionism
+1225,TeniersYounger10.jpg,baroque,romanticism
+1226,TeniersYounger2.jpg,baroque,romanticism
+1227,TeniersYounger3.jpg,baroque,romanticism
+1228,TeniersYounger4.jpg,baroque,romanticism
+1229,TeniersYounger5.jpg,baroque,romanticism
+1230,TeniersYounger6.jpg,baroque,realism
+1231,TeniersYounger7.jpg,baroque,romanticism
+1232,TeniersYounger8.jpg,baroque,romanticism
+1233,TeniersYounger9.jpg,baroque,post impressionism
+1234,Tiepolo1.jpg,rococo,rococo
+1235,Tiepolo2.jpg,rococo,rococo
+1236,Tiepolo3.jpg,rococo,classicism
+1237,Tiepolo4.jpg,rococo,classicism
+1238,Tiepolo5.jpg,rococo,classicism
+1239,Tintoretto1.jpg,mannerism,baroque
+1240,Tintoretto10.jpg,mannerism,renaissance
+1241,Tintoretto11.jpg,mannerism,renaissance
+1242,Tintoretto12.jpg,mannerism,mannerism
+1243,Tintoretto13.jpg,mannerism,baroque
+1244,Tintoretto14.jpg,mannerism,baroque
+1245,Tintoretto16.jpg,mannerism,classicism
+1246,Tintoretto17.jpg,mannerism,baroque
+1247,Tintoretto2.jpg,mannerism,classicism
+1248,Tintoretto3.jpg,mannerism,baroque
+1249,Tintoretto4.jpg,mannerism,mannerism
+1250,Tintoretto5.jpg,mannerism,romanticism
+1251,Tintoretto6.jpg,mannerism,baroque
+1252,Tintoretto7.jpg,mannerism,romanticism
+1253,Tintoretto8.jpg,mannerism,romanticism
+1254,Tintoretto9.jpg,mannerism,baroque
+1255,Tisi1.jpg,mannerism,baroque
+1256,Tisi2.jpg,mannerism,renaissance
+1257,Tisi3.jpg,mannerism,classicism
+1258,Titian1.jpg,renaissance,baroque
+1259,Titian10.jpg,renaissance,baroque
+1260,Titian11.jpg,renaissance,romanticism
+1261,Titian12.jpg,renaissance,romanticism
+1262,Titian13.jpg,renaissance,mannerism
+1263,Titian14.jpg,renaissance,classicism
+1264,Titian15.jpg,renaissance,romanticism
+1265,Titian16.jpg,renaissance,classicism
+1266,Titian2.jpg,renaissance,classicism
+1267,Titian3.jpg,renaissance,romanticism
+1268,Titian4.jpg,renaissance,romanticism
+1269,Titian5.jpg,renaissance,classicism
+1270,Titian6.jpg,renaissance,classicism
+1271,Titian7.jpg,renaissance,romanticism
+1272,Titian8.jpg,renaissance,mannerism
+1273,Tonks1.jpg,impressionism,post impressionism
+1274,Toorop1.jpg,symbolism,post impressionism
+1275,ToulouseLautrec1.jpg,post impressionism,post impressionism
+1276,ToulouseLautrec2.jpg,post impressionism,impressionism
+1277,ToulouseLautrec3.jpg,post impressionism,post impressionism
+1278,ToulouseLautrec4.jpg,post impressionism,impressionism
+1279,ToulouseLautrec5.jpg,post impressionism,post impressionism
+1280,Trumbull1.jpg,romanticism,romanticism
+1281,Trumbull2.jpg,romanticism,realism
+1282,Trumbull3.jpg,romanticism,realism
+1283,Turner1.jpg,romanticism,romanticism
+1284,Turner2.jpg,romanticism,romanticism
+1285,Turner3.jpg,romanticism,romanticism
+1286,Turner4.jpg,romanticism,romanticism
+1287,Turner5.jpg,romanticism,romanticism
+1288,Turner6.jpg,romanticism,romanticism
+1289,Twachtman1.jpg,impressionism,impressionism
+1290,Ury1.jpg,impressionism,post impressionism
+1291,Ury2.jpg,impressionism,impressionism
+1292,Vaccaro1.jpg,baroque,classicism
+1293,VanGogh1.jpg,post impressionism,post impressionism
+1294,VanGogh10.jpg,post impressionism,impressionism
+1295,VanGogh11.jpg,post impressionism,post impressionism
+1296,VanGogh13.jpg,post impressionism,post impressionism
+1297,VanGogh14.jpg,post impressionism,post impressionism
+1298,VanGogh15.jpg,post impressionism,post impressionism
+1299,VanGogh16.jpg,post impressionism,post impressionism
+1300,VanGogh17.jpg,post impressionism,post impressionism
+1301,VanGogh18.jpg,post impressionism,post impressionism
+1302,VanGogh19.jpg,post impressionism,expressionism
+1303,VanGogh2.jpg,post impressionism,post impressionism
+1304,VanGogh20.jpg,post impressionism,post impressionism
+1305,VanGogh21.jpg,post impressionism,post impressionism
+1306,VanGogh22.jpg,post impressionism,post impressionism
+1307,VanGogh23.jpg,post impressionism,post impressionism
+1308,VanGogh24.jpg,post impressionism,post impressionism
+1309,VanGogh25.jpg,post impressionism,post impressionism
+1310,VanGogh26.jpg,post impressionism,post impressionism
+1311,VanGogh27.jpg,post impressionism,post impressionism
+1312,VanGogh3.jpg,post impressionism,post impressionism
+1313,VanGogh4.jpg,post impressionism,romanticism
+1314,VanGogh5.jpg,post impressionism,impressionism
+1315,VanGogh6.jpg,post impressionism,post impressionism
+1316,VanGogh7.jpg,post impressionism,post impressionism
+1317,VanGogh8.jpg,post impressionism,post impressionism
+1318,VanGogh9.jpg,post impressionism,post impressionism
+1319,Vasari1.jpg,renaissance,classicism
+1320,Vasari2.jpg,renaissance,mannerism
+1321,Vasnetsov1.jpg,realism,romanticism
+1322,Vasnetsov2.jpg,realism,romanticism
+1323,Vasnetsov3.jpg,realism,romanticism
+1324,Vecchio1.jpg,renaissance,renaissance
+1325,Vedder1.jpg,symbolism,romanticism
+1326,Velazquez1.jpg,baroque,mannerism
+1327,Velazquez2.jpg,baroque,mannerism
+1328,Velazquez3.jpg,baroque,rococo
+1329,Velazquez4.jpg,baroque,mannerism
+1330,Velazquez5.jpg,baroque,baroque
+1331,Velazquez6.jpg,baroque,rococo
+1332,Velazquez7.jpg,baroque,baroque
+1333,Velazquez8.jpg,baroque,renaissance
+1334,Velazquez9.jpg,baroque,classicism
+1335,Verelst1.jpg,baroque,rococo
+1336,Vereshchagin1.jpg,realism,symbolism
+1337,Vermeer1.jpg,baroque,mannerism
+1338,Vermeer2.jpg,baroque,mannerism
+1339,Vermeer3.jpg,baroque,mannerism
+1340,Vermeer4.jpg,baroque,mannerism
+1341,Vermeer5.jpg,baroque,romanticism
+1342,Vermeer6.jpg,baroque,romanticism
+1343,Vermeer7.jpg,baroque,romanticism
+1344,Vermeer8.jpg,baroque,mannerism
+1345,Vermeer9.jpg,baroque,romanticism
+1346,Vernet1.jpg,classicism,romanticism
+1347,Vernet2.jpg,classicism,romanticism
+1348,Veronese1.jpg,renaissance,classicism
+1349,Veronese10.jpg,renaissance,romanticism
+1350,Veronese11.jpg,renaissance,baroque
+1351,Veronese12.jpg,renaissance,rococo
+1352,Veronese13.jpg,renaissance,rococo
+1353,Veronese14.jpg,renaissance,rococo
+1354,Veronese2.jpg,renaissance,classicism
+1355,Veronese3.jpg,renaissance,classicism
+1356,Veronese4.jpg,renaissance,classicism
+1357,Veronese5.jpg,renaissance,classicism
+1358,Veronese6.jpg,renaissance,rococo
+1359,Veronese7.jpg,renaissance,classicism
+1360,Veronese8.jpg,renaissance,baroque
+1361,Veronese9.jpg,renaissance,baroque
+1362,Verspronck1.jpg,baroque,rococo
+1363,VigeeLebrun1.jpg,classicism,rococo
+1364,VigeeLebrun2.jpg,classicism,rococo
+1365,VigeeLebrun3.jpg,classicism,romanticism
+1366,VigeeLebrun4.jpg,classicism,romanticism
+1367,VigeeLebrun5.jpg,classicism,rococo
+1368,Vinet1.jpg,realism,romanticism
+1369,Vonnoh1.jpg,impressionism,impressionism
+1370,Vouet1.jpg,baroque,classicism
+1371,Vrubel1.jpg,symbolism,expressionism
+1372,Vuillard1.jpg,post impressionism,post impressionism
+1373,Vuillard10.jpg,post impressionism,post impressionism
+1374,Vuillard11.jpg,post impressionism,impressionism
+1375,Vuillard2.jpg,post impressionism,post impressionism
+1376,Vuillard3.jpg,post impressionism,post impressionism
+1377,Vuillard4.jpg,post impressionism,post impressionism
+1378,Vuillard5.jpg,post impressionism,post impressionism
+1379,Vuillard6.jpg,post impressionism,post impressionism
+1380,Vuillard7.jpg,post impressionism,post impressionism
+1381,Vuillard8.jpg,post impressionism,impressionism
+1382,Vuillard9.jpg,post impressionism,post impressionism
+1383,Waldmuller1.jpg,romanticism,romanticism
+1384,Waldmuller2.jpg,romanticism,romanticism
+1385,Watteau1.jpg,rococo,rococo
+1386,Watteau2.jpg,rococo,romanticism
+1387,Watteau3.jpg,rococo,rococo
+1388,Watteau4.jpg,rococo,rococo
+1389,Watteau5.jpg,rococo,baroque
+1390,Watts1.jpg,symbolism,romanticism
+1391,Watts2.jpg,symbolism,symbolism
+1392,Watts3.jpg,symbolism,romanticism
+1393,Watts4.jpg,symbolism,rococo
+1394,Watts5.jpg,symbolism,symbolism
+1395,Weingartner1.jpg,realism,post impressionism
+1396,WhartonEdwards1.jpg,impressionism,romanticism
+1397,Willaerts1.jpg,baroque,rococo
+1398,Winterhalter1.jpg,romanticism,romanticism
+1399,Wissing1.jpg,baroque,rococo
+1400,Wissing2.jpg,baroque,rococo
+1401,Wissing3.jpg,baroque,rococo
+1402,Wissing4.jpg,baroque,baroque
+1403,Wissing5.jpg,baroque,rococo
+1404,Wouwerman1.jpg,baroque,rococo
+1405,Wouwerman2.jpg,baroque,romanticism
+1406,Wouwerman3.jpg,baroque,rococo
+1407,Wtewael1.jpg,baroque,classicism
+1408,Wtewael2.jpg,baroque,baroque
+1409,Wuchters1.jpg,baroque,baroque
+1410,Wyck1.jpg,baroque,romanticism
+1411,Wyck2.jpg,baroque,rococo
+1412,Wyck3.jpg,baroque,romanticism
+1413,Wyck4.jpg,baroque,rococo
+1414,Ziem1.jpg,realism,romanticism
+1415,Ziem2.jpg,realism,romanticism
+1416,Ziem3.jpg,realism,romanticism
+1417,Zoffany1.jpg,classicism,rococo
+1418,Zoffany10.jpg,classicism,classicism
+1419,Zoffany11.jpg,classicism,baroque
+1420,Zoffany2.jpg,classicism,romanticism
+1421,Zoffany3.jpg,classicism,rococo
+1422,Zoffany4.jpg,classicism,baroque
+1423,Zoffany5.jpg,classicism,rococo
+1424,Zoffany6.jpg,classicism,classicism
+1425,Zoffany7.jpg,classicism,rococo
+1426,Zoffany8.jpg,classicism,rococo
+1427,Zoffany9.jpg,classicism,rococo
+1428,Zurbaran1.jpg,baroque,mannerism
+1429,Zurbaran10.jpg,baroque,mannerism
+1430,Zurbaran2.jpg,baroque,classicism
+1431,Zurbaran3.jpg,baroque,mannerism
+1432,Zurbaran4.jpg,baroque,classicism
+1433,Zurbaran5.jpg,baroque,mannerism
+1434,Zurbaran6.jpg,baroque,mannerism
+1435,Zurbaran7.jpg,baroque,baroque
+1436,Zurbaran8.jpg,baroque,baroque
+1437,Zurbaran9.jpg,baroque,baroque
+1438,dHondecoeter1.jpg,baroque,romanticism
+1439,daCaravaggio1.jpg,baroque,mannerism
+1440,daCaravaggio2.jpg,baroque,romanticism
+1441,deCappelle1.jpg,baroque,romanticism
+1442,deChampaigne1.jpg,baroque,mannerism
+1443,deChavannes1.jpg,symbolism,symbolism
+1444,deChavannes2.jpg,symbolism,romanticism
+1445,deChavannes3.jpg,symbolism,romanticism
+1446,deChavannes4.jpg,symbolism,romanticism
+1447,deChavannes5.jpg,symbolism,romanticism
+1448,deFerrari1.jpg,baroque,classicism
+1449,deGrebber1.jpg,baroque,baroque
+1450,deHeem1.jpg,baroque,rococo
+1451,deHooch1.jpg,baroque,romanticism
+1452,deHooch2.jpg,baroque,mannerism
+1453,deHooch3.jpg,baroque,romanticism
+1454,deHooch4.jpg,baroque,baroque
+1455,deHooch5.jpg,baroque,romanticism
+1456,deJongh1.jpg,baroque,romanticism
+1457,deJongh2.jpg,baroque,romanticism
+1458,deJongh3.jpg,baroque,romanticism
+1459,deKeyser1.jpg,baroque,baroque
+1460,deKeyser2.jpg,baroque,baroque
+1461,deKeyser3.jpg,baroque,baroque
+1462,deLaTour1.jpg,baroque,mannerism
+1463,deLaTour2.jpg,baroque,romanticism
+1464,deLaTour3.jpg,baroque,classicism
+1465,deMadrazo1.jpg,romanticism,romanticism
+1466,deMadrazo2.jpg,romanticism,rococo
+1467,deRibera1.jpg,baroque,mannerism
+1468,deRibera2.jpg,baroque,classicism
+1469,deRibera3.jpg,baroque,mannerism
+1470,deRibera4.jpg,baroque,mannerism
+1471,deRibera5.jpg,baroque,mannerism
+1472,deStomme1.jpg,baroque,classicism
+1473,deTroy1.jpg,rococo,rococo
+1474,deVos1.jpg,baroque,mannerism
+1475,deVriendt1.jpg,baroque,rococo
+1476,deVriendt2.jpg,baroque,baroque
+1477,deVriendt3.jpg,baroque,rococo
+1478,deWitte1.jpg,baroque,classicism
+1479,delPiombo1.jpg,renaissance,renaissance
+1480,delPiombo2.jpg,renaissance,classicism
+1481,delPiombo3.jpg,renaissance,mannerism
+1482,delPiombo4.jpg,renaissance,classicism
+1483,delPiombo5.jpg,renaissance,classicism
+1484,delPiombo6.jpg,renaissance,classicism
+1485,delSarto1.jpg,renaissance,mannerism
+1486,van Baburen2.jpg,baroque,baroque
+1487,vanAelst1.jpg,baroque,baroque
+1488,vanBaburen1.jpg,baroque,mannerism
+1489,vanBeijeren1.jpg,baroque,rococo
+1490,vanBeijeren2.jpg,baroque,rococo
+1491,vanBijlert1.jpg,baroque,classicism
+1492,vanCalraet1.jpg,baroque,romanticism
+1493,vanCalraet2.jpg,baroque,romanticism
+1494,vanDyck1.jpg,baroque,romanticism
+1495,vanDyck10.jpg,baroque,rococo
+1496,vanDyck11.jpg,baroque,mannerism
+1497,vanDyck12.jpg,baroque,rococo
+1498,vanDyck13.jpg,baroque,baroque
+1499,vanDyck14.jpg,baroque,rococo
+1500,vanDyck15.jpg,baroque,baroque
+1501,vanDyck17.jpg,baroque,classicism
+1502,vanDyck18.jpg,baroque,classicism
+1503,vanDyck19.jpg,baroque,rococo
+1504,vanDyck2.jpg,baroque,baroque
+1505,vanDyck20.jpg,baroque,classicism
+1506,vanDyck21.jpg,baroque,baroque
+1507,vanDyck22.jpg,baroque,baroque
+1508,vanDyck3.jpg,baroque,mannerism
+1509,vanDyck4.jpg,baroque,romanticism
+1510,vanDyck5.jpg,baroque,baroque
+1511,vanDyck6.jpg,baroque,classicism
+1512,vanDyck7.jpg,baroque,baroque
+1513,vanDyck8.jpg,baroque,classicism
+1514,vanDyck9.jpg,baroque,rococo
+1515,vanEyck1.jpg,baroque,renaissance
+1516,vanGoyen1.jpg,baroque,romanticism
+1517,vanGoyen2.jpg,baroque,romanticism
+1518,vanGoyen3.jpg,baroque,romanticism
+1519,vanHaarlem1.jpg,baroque,classicism
+1520,vanHeemskerck1.jpg,baroque,mannerism
+1521,vanHonthorst1.jpg,baroque,mannerism
+1522,vanLeyden1.jpg,baroque,baroque
+1523,vanLoo1.jpg,rococo,rococo
+1524,vanLoo2.jpg,rococo,rococo
+1525,vanManderIII1.jpg,baroque,baroque
+1526,vanMoscher1.jpg,baroque,romanticism
+1527,vanNoordt1.jpg,baroque,rococo
+1528,vanOosterwijck1.jpg,baroque,rococo
+1529,vanOstade1.jpg,baroque,mannerism
+1530,vanOstade2.jpg,baroque,romanticism
+1531,vanOstade3.jpg,baroque,romanticism
+1532,vanRuisdael1.jpg,baroque,romanticism
+1533,vanRuisdael2.jpg,baroque,romanticism
+1534,vanRuisdael3.jpg,baroque,romanticism
+1535,vanRuisdael4.jpg,baroque,rococo
+1536,vanRuisdael5.jpg,baroque,rococo
+1537,vanRuisdael6.jpg,baroque,romanticism
+1538,vanRuisdael7.jpg,baroque,romanticism
+1539,vanRuisdael8.jpg,baroque,romanticism
+1540,vanRuisdael9.jpg,baroque,romanticism
+1541,vanRuysdael1.jpg,baroque,romanticism
+1542,vanRuysdael2.jpg,baroque,romanticism
+1543,vanRuysdael3.jpg,baroque,romanticism
+1544,vanRuysdael4.jpg,baroque,romanticism
+1545,vanRysselberghe1.jpg,post impressionism,post impressionism
+1546,vanSchooten1.jpg,baroque,baroque
+1547,vanSomerI1.jpg,baroque,realism
+1548,vanSwanevelt1.jpg,baroque,classicism
+1549,vanVries1.jpg,baroque,romanticism
+1550,vandeVeldeYounger1.jpg,baroque,romanticism
+1551,vandeVeldeYounger2.jpg,baroque,romanticism
+1552,vandeVenne1.jpg,baroque,rococo
+1553,vandeVenne2.jpg,baroque,rococo
+1554,vandenEeckhout1.jpg,baroque,baroque
+1555,vanderHelst1.jpg,baroque,romanticism
+1556,vanderHelst2.jpg,baroque,baroque
+1557,vanderHelst3.jpg,baroque,rococo
+1558,vanderHeyden1.jpg,baroque,romanticism
+1559,vanderNeer1.jpg,baroque,romanticism
+1560,vanderNeer2.jpg,baroque,romanticism
+1561,vonBecker1.jpg,realism,romanticism
+1562,vonBecker2.jpg,realism,romanticism
+1563,vonBecker3.jpg,realism,impressionism
+1564,vonHagelstein1.jpg,baroque,classicism
+1565,vonMenzel1.jpg,realism,rococo
+1566,vonMenzel2.jpg,realism,romanticism
+1567,vonMenzel3.jpg,realism,classicism
+1568,vonMenzel4.jpg,realism,impressionism
+1569,vonMenzel5.jpg,realism,rococo
+1570,vonMenzel6.jpg,realism,post impressionism
+1571,vonMenzel7.jpg,realism,romanticism
+1572,vonMenzel8.jpg,realism,impressionism
+1573,vonSandrart1.jpg,baroque,mannerism
+1574,vonSchwind1.jpg,romanticism,romanticism
+1575,vonSchwind2.jpg,romanticism,romanticism

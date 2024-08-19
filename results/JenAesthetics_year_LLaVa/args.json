@@ -1,0 +1,12 @@
+{
+    "dataset_name": "JenAesthetics",
+    "image_folder_path": "/scratch/leuven/361/vsc36136/JenAesthetics/images/images_new/",
+    "annotation_file": "datasets/JenAesthetics/JenAesthetics_filtered_metadata.csv",
+    "features_dir": "datasets/LAPIS/CLIP_features/",
+    "results_dir": null,
+    "clip_prompt": "When was this painting made?",
+    "n": -1,
+    "image_model": "ViT-B/32",
+    "attribute": "year",
+    "save_features": false
+}

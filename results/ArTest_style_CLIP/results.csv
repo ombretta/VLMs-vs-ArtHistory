@@ -1,0 +1,148 @@
+,images,gt,preds
+0,Outliers_images/Giotto_Kiss_Judas_1305.jpg,early renaissance,northern renaissance
+1,Outliers_images/Pontormo_entombment_1928.jpg,mannerism late renaissance,northern renaissance
+2,Outliers_images/Campin_Merode_1428.jpg,northern renaissance,northern renaissance
+3,Outliers_images/Velazques_meninas_1656.jpg,baroque,baroque
+4,Outliers_images/Gainsborough_Blue_boy_1770.jpg,rococo,rococo
+5,Outliers_images/Goya_Saturn_1819.jpg,romanticism,baroque
+6,Outliers_images/David_Marat_1793.jpg,realism,minimalism
+7,Outliers_images/Daumier_Wagon_1862.jpg,realism,northern renaissance
+8,Outliers_images/Mucha_Gismonda_1894.jpg,art nouveau,art nouveau
+9,Outliers_images/Picasso_Avignon_1907.jpg,cubism,analytical cubism
+10,Outliers_images/Picasso_Guernica_1937.jpg,cubism,analytical cubism
+11,Outliers_images/Duchamp_glass_1923.jpg,cubism,surrealism
+12,Outliers_images/Gris_guitar_1913.jpg,cubism,analytical cubism
+13,Outliers_images/Metzinger_Tea_1911.jpg,cubism,analytical cubism
+14,Outliers_images/Picasso_chair_1912.jpg,cubism,analytical cubism
+15,Outliers_images/Dali_Memory_1931.jpg,expressionism,surrealism
+16,Outliers_images/Matisse_red_1911.jpg,expressionism,fauvism
+17,Outliers_images/Derain_Collioure_1905.jpg,fauvism,fauvism
+18,Outliers_images/VanDongen_Woman_1906.jpg,fauvism,fauvism
+19,Outliers_images/Pollock_yellow-islands_1952.jpg,abstract expressionism,abstract expressionism
+20,Outliers_images/Kline_meryon_1961.jpg,abstract expressionism,minimalism
+21,Outliers_images/Motherwell_elegy-to-the-spanish-republic-no-110_1971.jpg,abstract expressionism,minimalism
+22,Outliers_images/Krasner_Gothic_landscape_1961.jpg,abstract expressionism,abstract expressionism
+23,Outliers_images/Stella_Marrakech_1964.jpg,color field painting,pop art
+24,Outliers_images/Rothko_No7_1963.jpg,color field painting,minimalism
+25,Outliers_images/Noland_east-west_1963.jpg,color field painting,minimalism
+26,Outliers_images/Malevich_black_square_1915.jpg,minimalism,analytical cubism
+27,Outliers_images/Baer_stations_1967.jpg,minimalism,minimalism
+28,Outliers_images/Hiroshige_the-plum-garden_1857.jpg,ukiyo-e,ukiyo-e
+29,Outliers_images/Sharaku_the-actor-Otani_1794.jpg,ukiyo-e,ukiyo-e
+30,Outliers_images/Utamaro_The-courtesan-Takao_1793.jpg,ukiyo-e,ukiyo-e
+31,Outliers_images/Hokusai_red-fuji_1831.jpg,ukiyo-e,ukiyo-e
+32,Outliers_images/Duchamp_fountain_1917.jpg,pop art,surrealism
+33,Outliers_images/Johns_Flag_1955.jpg,pop art,pop art
+34,Influential_artworks/Early_Renaissance/FilippoLippi_MadonnaandChild_1455.jpg,early renaissance,early renaissance
+35,Influential_artworks/Early_Renaissance/Masaccio_Tributemoney_1427.jpg,early renaissance,northern renaissance
+36,Influential_artworks/Early_Renaissance/Masaccio_holytrinity_1427.jpg,early renaissance,northern renaissance
+37,Influential_artworks/Early_Renaissance/FraAngelico_annunciation_1440.jpg,early renaissance,early renaissance
+38,Influential_artworks/Mannerism_Late_Renaissance/ElGreco_BurialOrgaz_1586.jpg,mannerism late renaissance,northern renaissance
+39,Influential_artworks/Mannerism_Late_Renaissance/Parmigianino_Madonna_1534.jpg,mannerism late renaissance,rococo
+40,Influential_artworks/Mannerism_Late_Renaissance/Michelangelo_LastJudgment_1536.jpg,mannerism late renaissance,northern renaissance
+41,Influential_artworks/Mannerism_Late_Renaissance/Bronzino_Allegory_1545.jpg,mannerism late renaissance,northern renaissance
+42,Influential_artworks/Expressionism/Schiele_selfportrait_1912.jpg,expressionism,analytical cubism
+43,Influential_artworks/Expressionism/Marc_horses_1911.jpg,expressionism,fauvism
+44,Influential_artworks/Expressionism/Munch_scream_1893.jpg,expressionism,fauvism
+45,Influential_artworks/Expressionism/Kandinsky_bluerider_1903.jpg,expressionism,fauvism
+46,Influential_artworks/Expressionism/Kirchner_berlin_1913.jpg,expressionism,fauvism
+47,Influential_artworks/Art_nouveau/Khnopff_sphinx_1896.jpg,art nouveau,surrealism
+48,Influential_artworks/Art_nouveau/Klimt_Kiss_1907.jpg,art nouveau,fauvism
+49,Influential_artworks/Art_nouveau/ToulouseLautrec_moulinrouge_1895.jpg,art nouveau,post impressionism
+50,Influential_artworks/Art_nouveau/Beardsley_peacock_1893.jpg,art nouveau,ukiyo-e
+51,Influential_artworks/Fauvism/Matisse_woman_1905.jpg,fauvism,fauvism
+52,Influential_artworks/Fauvism/Derain_bridge_1906.jpg,fauvism,fauvism
+53,Influential_artworks/Northern_Renaissance/AlbrechtDurer_Rhinoceros_1515.jpg,northern renaissance,northern renaissance
+54,Influential_artworks/Northern_Renaissance/Bosch_Garden.jpg,northern renaissance,naive art primitivism
+55,Influential_artworks/Northern_Renaissance/JanVanEyck_Arnolfini_1434.jpg,northern renaissance,early renaissance
+56,Influential_artworks/Northern_Renaissance/Holbein_Ambassadors_1533.jpg,northern renaissance,northern renaissance
+57,Influential_artworks/Rococo/Tiepolo_Allegory_1752.jpg,rococo,rococo
+58,Influential_artworks/Rococo/Watteau_Embarkation_1717.jpg,rococo,rococo
+59,Influential_artworks/Rococo/Boucher_Odalisque_1745.jpg,rococo,rococo
+60,Influential_artworks/Rococo/Fragonard_swing_1766.jpg,rococo,rococo
+61,Influential_artworks/Ukiyo-e/Hokusai_wave_1830.jpg,ukiyo-e,ukiyo-e
+62,Influential_artworks/Pop_art/Paolozzi_richman_1947.jpg,pop art,pop art
+63,Influential_artworks/Pop_art/Warhol_campbell_1962.jpg,pop art,pop art
+64,Influential_artworks/Pop_art/Hamilton_justwhat_1956.jpg,pop art,surrealism
+65,Influential_artworks/Pop_art/Lichtenstein_girl_1964.jpg,pop art,pop art
+66,Influential_artworks/High_Renaissance/Michelangelo_sistine_1508.jpg,high renaissance,northern renaissance
+67,Influential_artworks/High_Renaissance/LeonardoDaVinci_LastSupper_1495.jpg,high renaissance,early renaissance
+68,Influential_artworks/High_Renaissance/Giorgione_Tempest_1506.jpg,high renaissance,mannerism late renaissance
+69,Influential_artworks/High_Renaissance/LeonardoDaVinci_MonaLisa_1503.jpg,high renaissance,minimalism
+70,Influential_artworks/High_Renaissance/Raphael_SchoolAthens_1509.jpg,high renaissance,neo classicism
+71,Influential_artworks/Minimalism/Hesse_untitled_1967.jpg,minimalism,minimalism
+72,Influential_artworks/Minimalism/Ryman_bentline.jpg,minimalism,minimalism
+73,Influential_artworks/Minimalism/Kelly_horizontal_1951.jpg,minimalism,minimalism
+74,Influential_artworks/Minimalism/Smith_die_1962.jpg,minimalism,minimalism
+75,Influential_artworks/Color_field_painting/Louis_alpha_1961.jpg,color field painting,neo classicism
+76,Influential_artworks/Color_field_painting/Newman_vir_1950.jpg,color field painting,minimalism
+77,Influential_artworks/Realism/Millet_gleaners_1857.jpg,realism,romanticism
+78,Influential_artworks/Realism/Manet_Olympia_1863.jpg,realism,romanticism
+79,Influential_artworks/Realism/Eakins_clinic_1875.jpg,realism,romanticism
+80,Influential_artworks/Realism/Courbet_stonebreakers_1849.jpg,realism,post impressionism
+81,Influential_artworks/Romanticism/Gericault_Medusa_1818.jpg,romanticism,neo classicism
+82,Influential_artworks/Romanticism/Turner_Slaveship_1840.jpg,romanticism,romanticism
+83,Influential_artworks/Romanticism/Delacroix_Liberty_1830.jpg,romanticism,baroque
+84,Influential_artworks/Romanticism/Friedrich_Wanderer_1818.jpg,romanticism,romanticism
+85,Influential_artworks/Cubism/Braque_violincandlestick_1910.jpg,cubism,analytical cubism
+86,Influential_artworks/Cubism/Braque_estaque_1908.jpg,cubism,analytical cubism
+87,Influential_artworks/Impressionism/Degas_Ballet_1874.jpg,impressionism,impressionism
+88,Influential_artworks/Impressionism/Monet_sunrise_1872.jpg,impressionism,impressionism
+89,Influential_artworks/Impressionism/Pissarro_boulevardwinter_1897.jpg,impressionism,impressionism
+90,Influential_artworks/Impressionism/Caillebotte_Paris_1877.jpg,impressionism,impressionism
+91,Influential_artworks/Impressionism/Renoir_Dancemoulin_1876.jpg,impressionism,impressionism
+92,Influential_artworks/Baroque/Rubens_ElevationCross_1610.jpg,baroque,northern renaissance
+93,Influential_artworks/Baroque/Caravaggio_StMatthew_1599.jpg,baroque,baroque
+94,Influential_artworks/Baroque/Rembrandt_Nightwatch_1642.jpg,baroque,baroque
+95,Influential_artworks/Baroque/Gentileschi_Judith_1612.jpg,baroque,mannerism late renaissance
+96,Influential_artworks/Post_Impressionism/Seurat_Sunday_1884.jpg,post impressionism,naive art primitivism
+97,Influential_artworks/Post_Impressionism/Cezanne_mont_1902.jpg,post impressionism,fauvism
+98,Influential_artworks/Post_Impressionism/vanGogh_Starrynight_1889.jpg,post impressionism,post impressionism
+99,Influential_artworks/Post_Impressionism/ToulouseLautrec_Clownesse_1895.jpg,post impressionism,fauvism
+100,Influential_artworks/Post_Impressionism/Gauguin_Where_1897.jpg,post impressionism,fauvism
+101,Influential_artworks/Abstract_Expressionism/deKooning_woman_1952.jpg,abstract expressionism,abstract expressionism
+102,Influential_artworks/Naive_art_primitivism/Moses_turkey_1940.jpg,naive art primitivism,naive art primitivism
+103,Influential_artworks/Naive_art_primitivism/Pirosmani_gatekeeper_1905.jpg,naive art primitivism,analytical cubism
+104,Influential_artworks/Naive_art_primitivism/Rousseau_gypsy_1897.jpg,naive art primitivism,surrealism
+105,Influential_artworks/Naive_art_primitivism/Rousseau_dream_1910.jpg,naive art primitivism,naive art primitivism
+106,Influential_artworks/Naive_art_primitivism/Rousseau_repast_1907.jpg,naive art primitivism,naive art primitivism
+107,Picasso_collection/Picasso_Bateleurs_1905.jpg,symbolism,analytical cubism
+108,Picasso_collection/Picasso_vase_1903.jpg,symbolism,analytical cubism
+109,Picasso_collection/Picasso_Woman_Raven_1904.jpg,symbolism,fauvism
+110,Picasso_collection/Picasso_Vie_1903.jpg,symbolism,analytical cubism
+111,Picasso_collection/Picasso_Brooding_Woman_1904.jpg,symbolism,abstract expressionism
+112,Picasso_collection/Picasso_avignon_1907.jpg,cubism,analytical cubism
+113,Picasso_collection/Picasso_maisonette_1908.jpg,cubism,analytical cubism
+114,Picasso_collection/Picasso_gueridon_1920.jpg,cubism,analytical cubism
+115,Picasso_collection/Picasso_blanquita_1917.jpg,cubism,analytical cubism
+116,Picasso_collection/Picasso_armchair_1917.jpg,cubism,analytical cubism
+117,Picasso_collection/Picasso_Man_hat_1912.jpg,synthetic cubism,analytical cubism
+118,Picasso_collection/Picasso_verre_1914.jpg,synthetic cubism,synthetic cubism
+119,Picasso_collection/Picasso_Cheminee_1916.jpg,synthetic cubism,analytical cubism
+120,Picasso_collection/Picasso_Harlequin_1915.jpg,synthetic cubism,analytical cubism
+121,Picasso_collection/Picasso_Guitare_journal_1913.jpg,synthetic cubism,analytical cubism
+122,Picasso_collection/Picasso_Bathers_Forest_1908.jpg,analytical cubism,analytical cubism
+123,Picasso_collection/Picasso_nature_morte_1909.jpg,analytical cubism,analytical cubism
+124,Picasso_collection/Picasso_Kahnweiler_1910.jpg,analytical cubism,analytical cubism
+125,Picasso_collection/Picasso_grenade_1911.jpg,analytical cubism,analytical cubism
+126,Picasso_collection/Picasso_Jolie_1912.jpg,analytical cubism,analytical cubism
+127,Picasso_collection/Picasso_Sculptor_and_Statue_1933.jpg,surrealism,early renaissance
+128,Picasso_collection/Picasso_Bather_1928.jpg,surrealism,analytical cubism
+129,Picasso_collection/Picasso_Crucifixion_1930.jpg,surrealism,fauvism
+130,Picasso_collection/Picasso_Corrida_1933.jpg,surrealism,naive art primitivism
+131,Picasso_collection/Picasso_Baiser_1931.jpg,surrealism,analytical cubism
+132,Picasso_collection/Picasso_Jeanne_1901.jpg,post impressionism,fauvism
+133,Picasso_collection/Picasso_Canals_1905.jpg,post impressionism,synthetic cubism
+134,Picasso_collection/Picasso_Paralelo_1900.jpg,post impressionism,post impressionism
+135,Picasso_collection/Picasso_Homme_1903.jpg,post impressionism,synthetic cubism
+136,Picasso_collection/Picasso_Woman_1901.jpg,post impressionism,fauvism
+137,Picasso_collection/Picasso_Portrait_Olga_1918.jpg,neo classicism,art nouveau
+138,Picasso_collection/Picasso_Women_Spring_1921.jpg,neo classicism,analytical cubism
+139,Picasso_collection/Picasso_Nessus_Deianira_1920.jpg,neo classicism,neo classicism
+140,Picasso_collection/Picasso_Pan_Pipes_1923.jpg,neo classicism,analytical cubism
+141,Picasso_collection/Picasso_Lovers_1923.jpg,neo classicism,fauvism
+142,Picasso_collection/Picasso_Weeping_Woman_1937.jpg,expressionism,analytical cubism
+143,Picasso_collection/Picasso_Self_1901.jpg,expressionism,fauvism
+144,Picasso_collection/Picasso_Jacqueline_1954.jpg,expressionism,analytical cubism
+145,Picasso_collection/Picasso_absinthe_1903.jpg,expressionism,analytical cubism
+146,Picasso_collection/Picasso_untitled_1937.jpg,expressionism,naive art primitivism

@@ -1,0 +1,21 @@
+{
+    "mode": null,
+    "host": null,
+    "port": null,
+    "dataset_name": "ArTest",
+    "image_folder_path": "datasets/ArTest/",
+    "annotation_file": "datasets/ArTest/ArTest.csv",
+    "features_dir": "datasets/LAPIS/CLIP_features/",
+    "results_dir": null,
+    "attribute": "year",
+    "clip_prompt": "This painting was made in ",
+    "n": -1,
+    "image_model": "ViT-B/32",
+    "text_model": "anas-awadalla/mpt-1b-redpajama-200b-dolly",
+    "save_features": false,
+    "year_precision": 100,
+    "plot_conf_matrix": true,
+    "path_example_image1": "Cubism_Picasso_Avignon_1907.jpg",
+    "path_example_image2": "Realism_David_Marat_1793.jpg",
+    "max_new_tokens": 20
+}

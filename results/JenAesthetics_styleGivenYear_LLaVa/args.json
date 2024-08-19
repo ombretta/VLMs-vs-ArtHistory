@@ -1,0 +1,17 @@
+{
+    "mode": null,
+    "host": null,
+    "port": null,
+    "dataset_name": "JenAesthetics",
+    "image_folder_path": "/scratch/leuven/361/vsc36136/JenAesthetics/images/images_new/",
+    "annotation_file": "datasets/JenAesthetics/JenAesthetics_filtered_metadata.csv",
+    "features_dir": "datasets/LAPIS/CLIP_features/",
+    "results_dir": null,
+    "attribute": "period",
+    "clip_prompt": "What is the art style of this painting made in [year]?",
+    "n": -1,
+    "image_model": "ViT-B/32",
+    "save_features": false,
+    "year_precision": 100,
+    "plot_conf_matrix": true
+}

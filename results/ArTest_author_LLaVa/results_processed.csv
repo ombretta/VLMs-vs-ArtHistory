@@ -1,0 +1,442 @@
+,Unnamed: 0,images,gt,preds,predicted_class
+0,0,Outliers_images/Giotto_Kiss_Judas_1305.jpg,giotto,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+1,1,Outliers_images/Pontormo_entombment_1928.jpg,jacopo pontormo,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+2,2,Outliers_images/Campin_Merode_1428.jpg,robert campin and workshop,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+3,3,Outliers_images/Velazques_meninas_1656.jpg,diego velazquez,"USER:  
+Who is the author of this painting?
+ASSISTANT: Rembrandt",rembrandt
+4,4,Outliers_images/Gainsborough_Blue_boy_1770.jpg,thomas gainsborough,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+5,5,Outliers_images/Goya_Saturn_1819.jpg,francisco goya,"USER:  
+Who is the author of this painting?
+ASSISTANT: Francisco Goya",francisco goya
+6,6,Outliers_images/David_Marat_1793.jpg,jacques-louis david,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jacques-Louis David",jacques-louis david
+7,7,Outliers_images/Daumier_Wagon_1862.jpg,honoré daumier,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+8,8,Outliers_images/Mucha_Gismonda_1894.jpg,alfons mucha,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+9,9,Outliers_images/Picasso_Avignon_1907.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+10,10,Outliers_images/Picasso_Guernica_1937.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+11,11,Outliers_images/Duchamp_glass_1923.jpg,marcel duchamp,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+12,12,Outliers_images/Gris_guitar_1913.jpg,juan gris,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+13,13,Outliers_images/Metzinger_Tea_1911.jpg,jean metzinger,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+14,14,Outliers_images/Picasso_chair_1912.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+15,15,Outliers_images/Dali_Memory_1931.jpg,salvador dali,"USER:  
+Who is the author of this painting?
+ASSISTANT: Salvador Dali",salvador dali
+16,16,Outliers_images/Matisse_red_1911.jpg,henri matisse,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+17,17,Outliers_images/Derain_Collioure_1905.jpg,andré derain,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Klee",paul cezanne
+18,18,Outliers_images/VanDongen_Woman_1906.jpg,kees van dongen,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+19,19,Outliers_images/Pollock_yellow-islands_1952.jpg,jackson pollock,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+20,20,Outliers_images/Kline_meryon_1961.jpg,franz kline,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+21,21,Outliers_images/Motherwell_elegy-to-the-spanish-republic-no-110_1971.jpg,robert motherwell,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+22,22,Outliers_images/Krasner_Gothic landscape_1961.jpg,lee krasner,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+23,23,Outliers_images/Stella_Marrakech_1964.jpg,frank stella,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Klee",paul cezanne
+24,24,Outliers_images/Rothko_No7_1963.jpg,mark rothko,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+25,25,Outliers_images/Noland_east-west_1963.jpg,kenneth noland,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+26,26,Outliers_images/Malevich_black_square_1915.jpg,kazimir malevich,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+27,27,Outliers_images/Baer_stations_1967.jpg,jo baer,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+28,28,Outliers_images/Hiroshige_the-plum-garden_1857.jpg,utagawa hiroshige,"USER:  
+Who is the author of this painting?
+ASSISTANT: Hokusai",hokusai
+29,29,Outliers_images/Sharaku_the-actor-Otani_1794.jpg,toshusai sharaku,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+30,30,Outliers_images/Utamaro_The-courtesan-Takao_1793.jpg,kitagawa utamaro,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+31,31,Outliers_images/Hokusai_red-fuji_1831.jpg,katsushika hokusai,"USER:  
+Who is the author of this painting?
+ASSISTANT: Hokusai",hokusai
+32,32,Outliers_images/Duchamp_fountain_1917.jpg,marcel duchamp,"USER:  
+Who is the author of this painting?
+ASSISTANT: R. Mutt",tony smith
+33,33,Outliers_images/Johns_Flag_1955.jpg,jasper johns,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+34,34,Influential_artworks/Early_Renaissance/FilippoLippi_MadonnaandChild_1455.jpg,filippo lippi,"USER:  
+Who is the author of this painting?
+ASSISTANT: Leonardo da Vinci",leonardo da vinci
+35,35,Influential_artworks/Early_Renaissance/Masaccio_Tributemoney_1427.jpg,masaccio,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+36,36,Influential_artworks/Early_Renaissance/Masaccio_holytrinity_1427.jpg,masaccio,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+37,37,Influential_artworks/Early_Renaissance/FraAngelico_annunciation_1440.jpg,fra angelico,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+38,38,Influential_artworks/Mannerism_Late_Renaissance/ElGreco_BurialOrgaz_1586.jpg,el greco,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+39,39,Influential_artworks/Mannerism_Late_Renaissance/Parmigianino_Madonna_1534.jpg,parmigianino,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+40,40,Influential_artworks/Mannerism_Late_Renaissance/Michelangelo_LastJudgment_1536.jpg,michelangelo,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+41,41,Influential_artworks/Mannerism_Late_Renaissance/Bronzino_Allegory_1545.jpg,bronzino,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+42,42,Influential_artworks/Expressionism/Schiele_selfportrait_1912.jpg,egon schiele,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+43,43,Influential_artworks/Expressionism/Marc_horses_1911.jpg,franz marc,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+44,44,Influential_artworks/Expressionism/Munch_scream_1893.jpg,edvard munch,"USER:  
+Who is the author of this painting?
+ASSISTANT: Edvard Munch",edvard munch
+45,45,Influential_artworks/Expressionism/Kandinsky_bluerider_1903.jpg,wassily kandinsky,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+46,46,Influential_artworks/Expressionism/Kirchner_berlin_1913.jpg,ernst ludwig kirchner,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+47,47,Influential_artworks/Art_nouveau/Khnopff_sphinx_1896.jpg,fernand khnopff,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+48,48,Influential_artworks/Art_nouveau/Klimt_Kiss_1907.jpg,gustav klimt,"USER:  
+Who is the author of this painting?
+ASSISTANT: Gustav Klimt",gustav klimt
+49,49,Influential_artworks/Art_nouveau/ToulouseLautrec_moulinrouge_1895.jpg,toulouse lautrec,"USER:  
+Who is the author of this painting?
+ASSISTANT: Edgar Degas",edgar degas
+50,50,Influential_artworks/Art_nouveau/Beardsley_peacock_1893.jpg,aubrey beardsley,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+51,51,Influential_artworks/Fauvism/Matisse_woman_1905.jpg,henri matisse,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+52,52,Influential_artworks/Fauvism/Derain_bridge_1906.jpg,andré derain,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Cézanne",paul cezanne
+53,53,Influential_artworks/Northern_Renaissance/AlbrechtDurer_Rhinoceros_1515.jpg,albrecht durer,"USER:  
+Who is the author of this painting?
+ASSISTANT: Albrecht Dürer",albrecht durer
+54,54,Influential_artworks/Northern_Renaissance/Bosch_Garden.jpg,hieronymus bosch,"USER:  
+Who is the author of this painting?
+ASSISTANT: Hieronymus Bosch",hieronymus bosch
+55,55,Influential_artworks/Northern_Renaissance/JanVanEyck_Arnolfini_1434.jpg,jan van eyck,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+56,56,Influential_artworks/Northern_Renaissance/Holbein_Ambassadors_1533.jpg,hans holbein the younger,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+57,57,Influential_artworks/Rococo/Tiepolo_Allegory_1752.jpg,giovanni battista tiepolo,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+58,58,Influential_artworks/Rococo/Watteau_Embarkation_1717.jpg,jean-antoine watteau,"USER:  
+Who is the author of this painting?
+ASSISTANT: Claude Lorrain",joseph mallord william turner
+59,59,Influential_artworks/Rococo/Boucher_Odalisque_1745.jpg,francois boucher,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jean-Auguste-Dominique Ingres",eugène delacroix
+60,60,Influential_artworks/Rococo/Fragonard_swing_1766.jpg,jean-honoré fragonard,"USER:  
+Who is the author of this painting?
+ASSISTANT: Peter Paul Rubens",peter paul rubens
+61,61,Influential_artworks/Ukiyo-e/Hokusai_wave_1830.jpg,hokusai,"USER:  
+Who is the author of this painting?
+ASSISTANT: Hokusai Katsushika",katsushika hokusai
+62,62,Influential_artworks/Pop_art/Paolozzi_richman_1947.jpg,eduardo paolozzi,"USER:  
+Who is the author of this painting?
+ASSISTANT: I'm sorry, but I cannot provide the name of the artist who created this painting as there is no information available in the image description.",unknown
+63,63,Influential_artworks/Pop_art/Warhol_campbell_1962.jpg,andy warhol,"USER:  
+Who is the author of this painting?
+ASSISTANT: Andy Warhol",andy warhol
+64,64,Influential_artworks/Pop_art/Hamilton_justwhat_1956.jpg,richard hamilton,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+65,65,Influential_artworks/Pop_art/Lichtenstein_girl_1964.jpg,roy lichtenstein,"USER:  
+Who is the author of this painting?
+ASSISTANT: Roy Lichtenstein",roy lichtenstein
+66,66,Influential_artworks/High_Renaissance/Michelangelo_sistine_1508.jpg,michelangelo,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+67,67,Influential_artworks/High_Renaissance/LeonardoDaVinci_LastSupper_1495.jpg,leonardo da vinci,"USER:  
+Who is the author of this painting?
+ASSISTANT: Leonardo da Vinci",leonardo da vinci
+68,68,Influential_artworks/High_Renaissance/Giorgione_Tempest_1506.jpg,giorgione,"USER:  
+Who is the author of this painting?
+ASSISTANT: Leonardo da Vinci",leonardo da vinci
+69,69,Influential_artworks/High_Renaissance/LeonardoDaVinci_MonaLisa_1503.jpg,leonardo da vinci,"USER:  
+Who is the author of this painting?
+ASSISTANT: Leonardo da Vinci",leonardo da vinci
+70,70,Influential_artworks/High_Renaissance/Raphael_SchoolAthens_1509.jpg,raphael,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+71,71,Influential_artworks/Minimalism/Hesse_untitled_1967.jpg,eva hesse,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+72,72,Influential_artworks/Minimalism/Ryman_bentline.jpg,robert ryman,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+73,73,Influential_artworks/Minimalism/Kelly_horizontal_1951.jpg,ellsworth kelly,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+74,74,Influential_artworks/Minimalism/Smith_die_1962.jpg,tony smith,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+75,75,Influential_artworks/Color_field_painting/Louis_alpha_1961.jpg,morris louis,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+76,76,Influential_artworks/Color_field_painting/Newman_vir_1950.jpg,barnett newman,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+77,77,Influential_artworks/Realism/Millet_gleaners_1857.jpg,jean-françois millet,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+78,78,Influential_artworks/Realism/Manet_Olympia_1863.jpg,edouard manet,"USER:  
+Who is the author of this painting?
+ASSISTANT: Edgar Degas",edgar degas
+79,79,Influential_artworks/Realism/Eakins_clinic_1875.jpg,thomas eakins,"USER:  
+Who is the author of this painting?
+ASSISTANT: John Singer Sargent",edouard manet
+80,80,Influential_artworks/Realism/Courbet_stonebreakers_1849.jpg,gustave courbet,"USER:  
+Who is the author of this painting?
+ASSISTANT: John Constable",joseph mallord william turner
+81,81,Influential_artworks/Romanticism/Gericault_Medusa_1818.jpg,théodore géricault ,"USER:  
+Who is the author of this painting?
+ASSISTANT: Claude Lorrain",joseph mallord william turner
+82,82,Influential_artworks/Romanticism/Turner_Slaveship_1840.jpg,joseph mallord william turner,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+83,83,Influential_artworks/Romanticism/Delacroix_Liberty_1830.jpg,eugène delacroix,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jacques-Louis David",jacques-louis david
+84,84,Influential_artworks/Romanticism/Friedrich_Wanderer_1818.jpg,caspar david friedrich,"USER:  
+Who is the author of this painting?
+ASSISTANT: Caspar David Friedrich",caspar david friedrich
+85,85,Influential_artworks/Cubism/Braque_violincandlestick_1910.jpg,georges braque,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+86,86,Influential_artworks/Cubism/Braque_estaque_1908.jpg,georges braque,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Cézanne",paul cezanne
+87,87,Influential_artworks/Impressionism/Degas_Ballet_1874.jpg,edgar degas,"USER:  
+Who is the author of this painting?
+ASSISTANT: Edgar Degas",edgar degas
+88,88,Influential_artworks/Impressionism/Monet_sunrise_1872.jpg,claude monet,"USER:  
+Who is the author of this painting?
+ASSISTANT: Claude Monet",claude monet
+89,89,Influential_artworks/Impressionism/Pissarro_boulevardwinter_1897.jpg,camille pissarro,"USER:  
+Who is the author of this painting?
+ASSISTANT: John Atkinson Grimshaw",thomas eakins
+90,90,Influential_artworks/Impressionism/Caillebotte_Paris_1877.jpg,gustave caillebotte,"USER:  
+Who is the author of this painting?
+ASSISTANT: Claude Monet",claude monet
+91,91,Influential_artworks/Impressionism/Renoir_Dancemoulin_1876.jpg,pierre-auguste renoir,"USER:  
+Who is the author of this painting?
+ASSISTANT: Edgar Degas",edgar degas
+92,92,Influential_artworks/Baroque/Rubens_ElevationCross_1610.jpg,peter paul rubens,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+93,93,Influential_artworks/Baroque/Caravaggio_StMatthew_1599.jpg,caravaggio,"USER:  
+Who is the author of this painting?
+ASSISTANT: Rembrandt",rembrandt
+94,94,Influential_artworks/Baroque/Rembrandt_Nightwatch_1642.jpg,rembrandt,"USER:  
+Who is the author of this painting?
+ASSISTANT: Rembrandt",rembrandt
+95,95,Influential_artworks/Baroque/Gentileschi_Judith_1612.jpg,artemisia gentileschi,"USER:  
+Who is the author of this painting?
+ASSISTANT: Caravaggio",caravaggio
+96,96,Influential_artworks/Post_Impressionism/Seurat_Sunday_1884.jpg,georges seurat,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+97,97,Influential_artworks/Post_Impressionism/Cezanne_mont_1902.jpg,paul cezanne,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+98,98,Influential_artworks/Post_Impressionism/vanGogh_Starrynight_1889.jpg,vincent van gogh,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+99,99,Influential_artworks/Post_Impressionism/ToulouseLautrec_Clownesse_1895.jpg,toulouse lautrec,"USER:  
+Who is the author of this painting?
+ASSISTANT: Edgar Degas",edgar degas
+100,100,Influential_artworks/Post_Impressionism/Gauguin_Where_1897.jpg,paul gauguin,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Gauguin",paul gauguin
+101,101,Influential_artworks/Abstract_Expressionism/deKooning_woman_1952.jpg,willem de kooning,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jean-Michel Basquiat",andy warhol
+102,102,Influential_artworks/Naive_art_primitivism/Moses_turkey_1940.jpg,grandma moses,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+103,103,Influential_artworks/Naive_art_primitivism/Pirosmani_gatekeeper_1905.jpg,niko pirosmani,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+104,104,Influential_artworks/Naive_art_primitivism/Rousseau_gypsy_1897.jpg,henri rousseau,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+105,105,Influential_artworks/Naive_art_primitivism/Rousseau_dream_1910.jpg,henri rousseau,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Gauguin",paul gauguin
+106,106,Influential_artworks/Naive_art_primitivism/Rousseau_repast_1907.jpg,henri rousseau,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Gauguin",paul gauguin
+107,107,Picasso_collection/Picasso_Bateleurs_1905.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+108,108,Picasso_collection/Picasso_vase_1903.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+109,109,Picasso_collection/Picasso_Woman_Raven_1904.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+110,110,Picasso_collection/Picasso_Vie_1903.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+111,111,Picasso_collection/Picasso_Brooding_Woman_1904.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+112,112,Picasso_collection/Picasso_avignon_1907.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+113,113,Picasso_collection/Picasso_maisonette_1908.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Klee",paul cezanne
+114,114,Picasso_collection/Picasso_gueridon_1920.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+115,115,Picasso_collection/Picasso_blanquita_1917.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+116,116,Picasso_collection/Picasso_armchair_1917.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+117,117,Picasso_collection/Picasso_Man_hat_1912.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Klee",paul cezanne
+118,118,Picasso_collection/Picasso_verre_1914.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+119,119,Picasso_collection/Picasso_Cheminee_1916.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+120,120,Picasso_collection/Picasso_Harlequin_1915.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+121,121,Picasso_collection/Picasso_Guitare_journal_1913.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+122,122,Picasso_collection/Picasso_Bathers_Forest_1908.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Gauguin",paul gauguin
+123,123,Picasso_collection/Picasso_nature_morte_1909.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+124,124,Picasso_collection/Picasso_Kahnweiler_1910.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+125,125,Picasso_collection/Picasso_grenade_1911.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+126,126,Picasso_collection/Picasso_Jolie_1912.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+127,127,Picasso_collection/Picasso_Sculptor_and_Statue_1933.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+128,128,Picasso_collection/Picasso_Bather_1928.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+129,129,Picasso_collection/Picasso_Crucifixion_1930.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: The author of this painting is not known, as the image does not provide any information about the artist.",unknown
+130,130,Picasso_collection/Picasso_Corrida_1933.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+131,131,Picasso_collection/Picasso_Baiser_1931.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Jackson Pollock",jackson pollock
+132,132,Picasso_collection/Picasso_Jeanne_1901.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Giovanni Boccaccio",niko pirosmani
+133,133,Picasso_collection/Picasso_Canals_1905.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Frida Kahlo",salvador dali
+134,134,Picasso_collection/Picasso_Paralelo_1900.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+135,135,Picasso_collection/Picasso_Homme_1903.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+136,136,Picasso_collection/Picasso_Woman_1901.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+137,137,Picasso_collection/Picasso_Portrait_Olga_1918.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Mary Cassatt",edouard manet
+138,138,Picasso_collection/Picasso_Women_Spring_1921.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+139,139,Picasso_collection/Picasso_Nessus_Deianira_1920.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Michelangelo",michelangelo
+140,140,Picasso_collection/Picasso_Pan_Pipes_1923.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Gauguin",paul gauguin
+141,141,Picasso_collection/Picasso_Lovers_1923.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+142,142,Picasso_collection/Picasso_Weeping_Woman_1937.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+143,143,Picasso_collection/Picasso_Self_1901.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Unknown",unknown
+144,144,Picasso_collection/Picasso_Jacqueline_1954.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Pablo Picasso",pablo picasso
+145,145,Picasso_collection/Picasso_absinthe_1903.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Vincent Van Gogh",vincent van gogh
+146,146,Picasso_collection/Picasso_untitled_1937.jpg,pablo picasso,"USER:  
+Who is the author of this painting?
+ASSISTANT: Paul Klee",paul cezanne
