@@ -15,7 +15,7 @@ The repository contains the code to reproduce the main results from the paper, a
 - **`datasets/`**: This folder contains the datasets and data files used in the project.
   - `WikiArt/`: Please download and place WikiArt images and annotations in this folder. The WikiArt datasets can be found [here](https://github.com/cs-chan/ArtGAN/blob/master/WikiArt%20Dataset/README.md). 
   - `JenAesthetics/`: Please download and place JenAesthetics images and annotations in this folder. The JenAesthetics datasets can be found [here](https://github.com/Bin-ary-Li/JenAesthetics?tab=readme-ov-file).
-    - `ArTest/`: ArTest is a test set of 147 painting images, well curated by art historians. The folder contains all the ArTest images and annotations collected in this project.
+  - `ArTest/`: ArTest is a test set of 147 painting images, well curated by art historians. The folder contains all the ArTest images and annotations collected in this project.
 
 - **`results/`**: This directory contains all the results collected in this project. The subdirectories contain the results for each tested dataseta and VLM, on the different prediction tasks. Each folder contain a `results.csv` file, with the zero-shot predictions for each painting. In addition, the test argument parameters are reported in the `args.json` file. In some cases, we include the confusion matrix of the predictions (`confusion_matrix.png`).    
 
