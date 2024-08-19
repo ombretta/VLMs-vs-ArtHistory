@@ -33,7 +33,7 @@ def load_and_prepare_data(file, pred_field):
 def main(dir="results/", dataset="WikiArt", savedir="results/"):
     plt.rcParams['font.family'] = 'Times New Roman'
 
-    models = ["CLIP", "LLaVa", "OpenFlamingo", "GPT-4o"]
+    models = ["CLIP", "LLaVA", "OpenFlamingo", "GPT-4o"]
     model_names = ["CLIP", "LLaVA", "OpenFlamingo", "GPT-4o"]
 
     plt.rc('axes', labelsize=30)

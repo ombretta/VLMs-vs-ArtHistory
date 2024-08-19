@@ -69,7 +69,7 @@ if __name__ == "__main__":
     args = parse_args()
     print(args)
 
-    res_dir, i = "results/" + args.dataset_name + "/LLaVa/", 1
+    res_dir, i = "results/" + args.dataset_name + "/LLaVA/", 1
     while os.path.exists(res_dir + str(i)):
         i += 1
     res_dir += str(i) + "/"

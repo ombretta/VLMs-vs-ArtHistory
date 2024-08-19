@@ -63,7 +63,7 @@ def adjust_and_save_plot(fig, ax, x, savedir, dataset, title, ylabel, labelsize)
 def main(dir="results/", dataset="WikiArt", savedir="results/"):
     plt.rcParams['font.family'] = 'Times New Roman'
 
-    models = ["CLIP", "LLaVa", "OpenFlamingo", "GPT-4o"]
+    models = ["CLIP", "LLaVA", "OpenFlamingo", "GPT-4o"]
     model_names = ["CLIP", "LLaVA", "OpenFlamingo", "GPT-4o"]
     model_colors = ["#ffb000", "#fd6100", "#dc2680", "#785df0"]
 

@@ -77,8 +77,8 @@ def post_process_predictions(preds, model_name):
         preds = preds.apply(partial(find_word_sentence, word="The art style of this painting"))
         preds = preds.apply(partial(find_word_sentence, word='style'))
         preds = preds.apply(partial(find_word_sentence, word='period'))
-    if "LLaVa" in model_name and attribute in ["art_style", "period"]:
-        preds = preds.apply(process_LLaVa_output_style)
+    if "LLaVA" in model_name and attribute in ["art_style", "period"]:
+        preds = preds.apply(process_LLaVA_output_style)
     if "OpenFlamingo" in model_name and attribute in ["art_style", "period"]:
         preds = preds.str.replace("The art period of this painting is", "")
         preds = preds.str.replace("The art style of this painting is", "")
@@ -93,7 +93,7 @@ def post_process_predictions(preds, model_name):
         preds = round_year(preds, year_precision)
     if attribute == "year" and "CLIP" not in model_name:
         preds = preds.apply(replace_century)
-    if attribute == "year" and "LLaVa" in model_name:
+    if attribute == "year" and "LLaVA" in model_name:
         preds = preds.str.replace("The painting was made in ", "")
         preds = preds.str.replace("the ", "")
     if attribute == "year" and "CLIP" in model_name:
@@ -106,7 +106,7 @@ def post_process_predictions(preds, model_name):
     return preds
 
 
-def process_LLaVa_output_style(preds):
+def process_LLaVA_output_style(preds):
     preds = preds.replace("by William H. Johnson ", "")
     preds = preds.replace("The art style of this painting is ", "")
     preds = preds.replace("The art style of this painting ", "")
@@ -211,7 +211,7 @@ def round_year(years, precision=100):
     return pd.to_numeric(np.floor(gt_numeric / precision) * precision).astype('Int64').astype(str)
 
 
-def main(dataset_name="JenAethetics", results_dir="results/JenAethetics/LLaVa/5/",
+def main(dataset_name="JenAethetics", results_dir="results/JenAethetics/LLaVA/1/",
          prompt="[ART_STYLE]", attribute="style", year_precision=100, plot_conf_matrix=True):
 
     device = "cuda" if torch.cuda.is_available() else "cpu"
