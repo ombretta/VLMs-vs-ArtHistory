@@ -58,7 +58,7 @@ def remove_author_expression(text):
     return ' '.join(modified_text.split())
 
 
-def post_process_predictions(preds, model_name):
+def post_process_predictions(preds, model_name, args):
 
     # Take into account NaN values in GPT-4o
     preds.loc[preds.isnull()] = ""
@@ -68,6 +68,7 @@ def post_process_predictions(preds, model_name):
     if "<image>" in str(preds[0]):
         preds = preds.str.split("<image>", expand=True)[3]
     if attribute == "period" or attribute == "art_style" and "GPT-4o" not in model_name:
+        print(args['prompt'])
         if "[author]" in args['prompt']:
             preds = preds.apply(remove_author_expression)
         if "[year]" in args['prompt']:
@@ -221,7 +222,6 @@ def main(dataset_name="JenAethetics", results_dir="results/JenAethetics/LLaVA/1/
         args = json.load(f)
 
     print(args['dataset_name'], end="\t")
-    print(args['annotation_file'], end="\t")
     print(args['prompt'], end="\t")
     print(args['attribute'], end="\t")
 
@@ -247,7 +247,7 @@ def main(dataset_name="JenAethetics", results_dir="results/JenAethetics/LLaVA/1/
 
     # Post-process the predictions
     preds = results["preds"]
-    preds = post_process_predictions(preds, results_file)
+    preds = post_process_predictions(preds, results_file, args)
 
     # Extract CLIP text embeddings from the predictions and compare them to the ground-truth
     preds_embeddings = process_in_batches(preds.tolist(), model, device)
