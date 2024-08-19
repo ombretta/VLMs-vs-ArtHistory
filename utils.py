@@ -18,7 +18,7 @@ def parse_args():
     parser.add_argument('--features_dir', type=str, default="datasets/ArTest/ArTest_features/", help='Where to save the extracted features')
     parser.add_argument('--results_dir', type=str, default=None, help='Where to find the results.')
     parser.add_argument('--attribute', type=str, default="style", help='Name of the attribute to predict (e.g., style, genre, content,...)')
-    parser.add_argument('--clip_prompt', type=str, default='the art style of the painting is ')
+    parser.add_argument('--prompt', type=str, default='the art style of the painting is ')
     parser.add_argument('--n', type=int, default=-1, help='Number of images')
     parser.add_argument('--image_model', type=str, default="ViT-B/32")
     parser.add_argument('--text_model', type=str, default="anas-awadalla/mpt-1b-redpajama-200b", help='LLM used to analyze the prompt and generate the text.')

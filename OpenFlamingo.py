@@ -11,8 +11,8 @@ from PIL import Image
 from utils import parse_args, save_args_to_file
 
 
-def main(res_dir, dataset_name, image_folder_path, annotation_file, n, attribute="style",
-         clip_prompt="The art style of this painting is ",
+def main(res_dir, image_folder_path, annotation_file, n, attribute="style",
+         prompt="The art style of this painting is ",
          path_example1="Cubism_Picasso_Avignon_1907.jpg", style_example1="Cubism",
          path_example2="Realism_David_Marat_1793.jpg", style_example2="Realism",
          max_new_tokens=200, LLM_id="anas-awadalla/mpt-1b-redpajama-200b"):
@@ -37,7 +37,7 @@ def main(res_dir, dataset_name, image_folder_path, annotation_file, n, attribute
     checkpoint_path = "openflamingo/OpenFlamingo-9B-vitl-mpt7b" if LLM_id in ["anas-awadalla/mpt-7b"] \
         else "openflamingo/OpenFlamingo-3B-vitl-mpt1b"
 
-    checkpoint_path = hf_hub_download(checkpoint_path, "checkpoint.pt", cache_dir=cache_dir)
+    checkpoint_path = hf_hub_download(checkpoint_path, "checkpoint.pt")
     model.load_state_dict(torch.load(checkpoint_path), strict=False)
 
     # Load dataset and labels
@@ -53,8 +53,8 @@ def main(res_dir, dataset_name, image_folder_path, annotation_file, n, attribute
     example_image2 = Image.open(path_example2)
 
     # Define prompt
-    prompt = ("<image>" + clip_prompt + style_example1 + ".<|endofchunk|>" + "<image>" + clip_prompt + style_example2 +
-              ".<|endofchunk|>" + "<image>" + clip_prompt)
+    prompt = ("<image>" + prompt + style_example1 + ".<|endofchunk|>" + "<image>" + prompt + style_example2 +
+              ".<|endofchunk|>" + "<image>" + prompt)
 
     print("OpenFlamingo prompt:", prompt)
     tokenizer.padding_side = "left"  # For generation padding tokens should be on the left
@@ -118,6 +118,6 @@ if __name__ == "__main__":
         style_example1 = path_example1.split("_")[-1].split(".jpg")[0]
         style_example2 = path_example2.split("_")[-1].split(".jpg")[0]
 
-    main(res_dir, args.image_folder_path, args.annotation_file, args.n, args.attribute, args.clip_prompt,
+    main(res_dir, args.image_folder_path, args.annotation_file, args.n, args.attribute, args.prompt,
          path_example1, style_example1, path_example2, style_example2, args.max_new_tokens, LLM_id)
 

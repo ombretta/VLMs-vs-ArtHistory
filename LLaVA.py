@@ -13,7 +13,7 @@ from transformers import BitsAndBytesConfig, pipeline
 from utils import parse_args, save_args_to_file
 
 
-def main(res_dir, image_folder_path, annotation_file, clip_prompt, n, attribute="style",
+def main(res_dir, image_folder_path, annotation_file, prompt, n, attribute="style",
          max_new_tokens=200):
     Image.MAX_IMAGE_PIXELS = 1000000000
 
@@ -27,7 +27,7 @@ def main(res_dir, image_folder_path, annotation_file, clip_prompt, n, attribute=
     pipe = pipeline("image-to-text", model=model_id, model_kwargs={"quantization_config": quantization_config})
 
     # Define prompt
-    prompt = "USER: <image>\n" + clip_prompt + "\nASSISTANT:"
+    prompt = "USER: <image>\n" + prompt + "\nASSISTANT:"
 
     # Load dataset and labels
     annotations = pd.read_csv(annotation_file)
@@ -78,4 +78,4 @@ if __name__ == "__main__":
     save_args_to_file(args, res_dir + "args.json")
 
     main(res_dir, args.image_folder_path, args.annotation_file,
-         args.clip_prompt, args.n, args.attribute, args.max_new_tokens)
+         args.prompt, args.n, args.attribute, args.max_new_tokens)

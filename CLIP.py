@@ -20,7 +20,7 @@ def save_args_to_file(args, filepath):
         json.dump(vars(args), f, indent=4)
 
 
-def main(res_dir, image_folder_path, annotation_file, features_dir, clip_prompt, image_model, n,
+def main(res_dir, image_folder_path, annotation_file, features_dir, prompt, image_model, n,
          attribute="style", save_features=False):
 
     Image.MAX_IMAGE_PIXELS = 1000000000  # Adjust this value as needed
@@ -44,22 +44,22 @@ def main(res_dir, image_folder_path, annotation_file, features_dir, clip_prompt,
 
         image = preprocess(Image.open(image_folder_path + img)).unsqueeze(0).to(device)
 
-        original_prompt = clip_prompt
+        original_prompt = prompt
 
-        print("clip_prompt", clip_prompt, "annotations.keys()", annotations.keys())
-        if "[author]" in clip_prompt and "author" in annotations.keys():
+        print("prompt", prompt, "annotations.keys()", annotations.keys())
+        if "[author]" in prompt and "author" in annotations.keys():
             print(idx, annotations.loc[idx]["author"])
-            clip_prompt = clip_prompt.replace("[author]", annotations.loc[idx]["author"].replace("_", " "))
-            print(clip_prompt)
+            prompt = prompt.replace("[author]", annotations.loc[idx]["author"].replace("_", " "))
+            print(prompt)
 
-        if "[year]" in clip_prompt and "year" in annotations.keys():
-            clip_prompt = clip_prompt.replace("[year]", annotations.loc[idx]["year"])
-            print(clip_prompt)
+        if "[year]" in prompt and "year" in annotations.keys():
+            prompt = prompt.replace("[year]", annotations.loc[idx]["year"])
+            print(prompt)
 
-        prompts = [clip_prompt + c for c in classes]
+        prompts = [prompt + c for c in classes]
         text = clip.tokenize(prompts).to(device)
 
-        clip_prompt = original_prompt
+        prompt = original_prompt
 
         with torch.no_grad():
 
@@ -98,5 +98,5 @@ if __name__ == "__main__":
     save_args_to_file(args, res_dir+"args.json")
 
     main(res_dir, args.dataset_name, args.image_folder_path, args.annotation_file, args.features_dir,
-         args.clip_prompt, args.image_model, args.n, args.attribute, args.save_features)
+         args.prompt, args.image_model, args.n, args.attribute, args.save_features)
 

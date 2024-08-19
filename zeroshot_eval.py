@@ -68,9 +68,9 @@ def post_process_predictions(preds, model_name):
     if "<image>" in str(preds[0]):
         preds = preds.str.split("<image>", expand=True)[3]
     if attribute == "period" or attribute == "art_style" and "GPT-4o" not in model_name:
-        if "[author]" in args['clip_prompt']:
+        if "[author]" in args['prompt']:
             preds = preds.apply(remove_author_expression)
-        if "[year]" in args['clip_prompt']:
+        if "[year]" in args['prompt']:
             preds = preds.apply(remove_year_expression)
         preds = preds.apply(partial(find_word_sentence, word='This painting belongs to'))
         preds = preds.apply(partial(find_word_sentence, word="painting belongs to "))
@@ -222,7 +222,7 @@ def main(dataset_name="JenAethetics", results_dir="results/JenAethetics/LLaVa/5/
 
     print(args['dataset_name'], end="\t")
     print(args['annotation_file'], end="\t")
-    print(args['clip_prompt'], end="\t")
+    print(args['prompt'], end="\t")
     print(args['attribute'], end="\t")
 
     results_file = results_dir + "results.csv"
@@ -288,7 +288,7 @@ if __name__ == "__main__":
 
     dataset_name = args.dataset_name
     results_dir = args.results_dir
-    prompt = args.clip_prompt
+    prompt = args.prompt
     year_precision = args.year_precision
     attribute = args.attribute
     plot_conf_matrix = args.plot_conf_matrix

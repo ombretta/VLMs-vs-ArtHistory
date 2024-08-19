@@ -1,12 +1,7 @@
 {
     "dataset_name": "WikiArt",
-    "image_folder_path": "/scratch/leuven/361/vsc36136/wikiart/",
-    "annotation_file": "datasets/WikiArt/WikiArt_valid.csv",
-    "features_dir": "datasets/LAPIS/CLIP_features/",
-    "results_dir": null,
-    "clip_prompt": "When was this painting made?",
+    "prompt": "When was this painting made?",
     "n": -1,
     "image_model": "ViT-B/32",
-    "attribute": "art_style",
-    "save_features": false
+    "attribute": "art_style"
 }

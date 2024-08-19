@@ -98,4 +98,4 @@ if __name__ == "__main__":
 
     save_args_to_file(args, os.path.join(res_dir, "args.json"))
 
-    main(res_dir, args.image_folder_path, args.annotation_file, args.clip_prompt, args.n, args.attribute)
+    main(res_dir, args.image_folder_path, args.annotation_file, args.prompt, args.n, args.attribute)

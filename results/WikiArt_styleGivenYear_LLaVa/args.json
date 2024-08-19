@@ -1,17 +1,7 @@
 {
-    "mode": null,
-    "host": null,
-    "port": null,
     "dataset_name": "WikiArt",
-    "image_folder_path": "/scratch/leuven/361/vsc36136/wikiart/",
-    "annotation_file": "datasets/WikiArt/WikiArt_valid_author_year_filtered.csv",
-    "features_dir": "datasets/LAPIS/CLIP_features/",
-    "results_dir": null,
     "attribute": "art_style",
-    "clip_prompt": "What is the art style of this painting made in [year]?",
+    "prompt": "What is the art style of this painting made in [year]?",
     "n": -1,
-    "image_model": "ViT-B/32",
-    "save_features": false,
-    "year_precision": 100,
-    "plot_conf_matrix": true
+    "image_model": "ViT-B/32"
 }
