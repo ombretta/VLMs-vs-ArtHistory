@@ -17,7 +17,7 @@ The repository contains the code to reproduce the main results from the paper, a
   - `JenAesthetics/`: Please download and place JenAesthetics images and annotations in this folder. The JenAesthetics datasets can be found [here](https://github.com/Bin-ary-Li/JenAesthetics?tab=readme-ov-file).
   - `ArTest/`: ArTest is a test set of 147 painting images, well curated by art historians. The folder contains all the ArTest images and annotations collected in this project.
 
-- **`results/`**: This directory contains all the results collected in this project. The subdirectories contain the results for each tested dataseta and VLM, on the different prediction tasks. Each folder contain a `results.csv` file, with the zero-shot predictions for each painting. In addition, the test argument parameters are reported in the `args.json` file. In some cases, we include the confusion matrix of the predictions (`confusion_matrix.png`).    
+- **`results/`**: This directory contains all the results collected in this project. The subdirectories contain the results for each tested dataseta and VLM, on the different prediction tasks. Each folder contains a `results.csv` file, with the zero-shot predictions for each painting. In addition, the test argument parameters are reported in the `args.json` file. In some cases, we include the confusion matrix of the predictions (`confusion_matrix.png`).    
 
   ````
   results
@@ -100,5 +100,21 @@ Example of usage: Art style prediction on ArTest
 
 ## Evaluation
 
+To evaluate the zero-shot predictions by the text generation VLMs (LLaVA, OpenFlamingo and GPT_4o), we post-process the VLMs outputs and compare them with the ground truth art historical attributes. This is done through [zeroshot_eval.py](zeroshot_eval.py), which uses the CLIP text encoder.
+For CLIP, this prost-processing step is not needed: this model directly assigns one predicted class to the painting. 
 
+### Results post-processing: 
 
+Example:
+```
+conda activate clip
+python zeroshot_eval.py --dataset_name WikiArt --results_dir results/WikiArt/LLaVA/WikiArt_style_LLaVa/ --prompt "[art_style]" --attribute art_style --plot_conf_matrix True 
+```
+
+### Precision and Recall
+To plot precision and recall for the prediction of each art style:
+```python plot_precision_recall.py```
+
+### Confusion Matrix
+To plot the confusion matrices for the predictions:
+```python plot_precision_recall.py```
